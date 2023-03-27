@@ -1,0 +1,4834 @@
+[
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 3,
+        "eventId": "E:91208102",
+        "event": "commonly used model is the SIR",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": "Because they are extending SIR model just towards Covid cases in Italy and not China. China is mentioned in intro paragraph to just suggest begining of SAR CoV-2 in China as a Lead/Opening Paragraph."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 3,
+        "eventId": "E:360142587",
+        "event": "epidemic in Italy that extends swabs as of 5 April 2020",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns. wrong continuination of paragraph line. epidemic in Italy that extends SIR is in left column of the page and nasal swabs as of 5 April 2020 is in right column paragraph so both of the lines are two different lines"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:664128778",
+        "event": "21 February 2020 in Lodi province, several suspect cases (initially discrete-time SIR model including dead individuals21, Casella develepidemiologically linked) began",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+
+        ],
+        
+        "explanation": "mixed up lines between the two columns. individuals21, Casella develepidemiologically linked) began"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:234898069",
+        "event": "new model that predicts the course of the epiwas extended to the entire area of Lombardy",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns.."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:2016106309",
+        "event": "One commonly used model is the SIR after a novel strain of  coronavirus, SARS-CoV-2, was identified",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:764207137",
+        "event": "More complex models can accurately portray the dynamic spread of  specific epidemics",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-103228458",
+        "event": "Predictive mathematical models for epidemics15-18 are fundamental",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": "The numbers are superscript. But the location and temporal context remain generic, since this is just an opening (Lede) sentence to first introduce SIR, then navigate towards  extended models from other researchers."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:689049127",
+        "event": "More complex models can accurately portray the dynamic spread of  specific epidemics",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": "This is just another introductory opening sentence which is generic."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-1980461318",
+        "event": "One commonly used model is the SIR model19 for human-to-human transmission",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1664859263",
+        "event": "Stochastic transmission models have also been considered24,25",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": "should this really be N/A? no direct location/time information associated. It has to be by inference."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:-720586081",
+        "event": "different severity of illness (SOI),",
+        "locationContext": [
+            "Italy","Lodi Province","Lombardy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)", "26 February 2020", "9 March 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-2122915162",
+        "event": "R0 = 1.66",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "on day 4"
+        ],
+        
+        "explanation": "R0 on Day 4"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-252935111",
+        "event": "R0 = 1.80",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 12"
+        ],
+        
+        "explanation": "R0 on day 12"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1577969145",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "on day 1"
+        ],
+        
+        "explanation": "R0 on Day 1"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:885336195",
+        "event": "basic reproduction number was R0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1163710122",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1738274418",
+        "event": "moderate infection) and potentially lifeing the most recent lockdown progressively enforced since 9 March 2020",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:50236998",
+        "event": "possible longer-term scenarios illustrating the effects of  different The total population is partitioned into eight stages of  discountermeasures",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-755935773",
+        "event": "R0 = 2.38, which resulted in a H",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-855206206",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:1192125863",
+        "event": "basic reproduction number was R0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:1539122875",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:2134495516",
+        "event": "R0 = 1.66",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 4"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1471026472",
+        "event": "R0 = 1.80",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 4"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1623691057",
+        "event": "progressive restrictions, including the most recent lockdown progressively enforced since 9 March 2020, have affected the spread of  the epidemic",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "9 March 2020","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1716248178",
+        "event": "R0 = 2.38, which resulted in a substantial outbreak",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:-715111601",
+        "event": "R0 = 0.85",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38"
+        ],
+        
+        "explanation": "R0 = 0.85 after day 38."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:-792890591",
+        "event": "infected Figure 3c,d",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:-361136615",
+        "event": "Figure 4a,b",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "9 March 2020","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:363748873",
+        "event": "R0 = 1.60",
+        "locationContext": [
+            "Italy", "north to the south of Italy"
+        ],
+        
+        "temporalContext": [
+            "day 22","20 February 2020 (day 1) to 5 April 2020 (day 46)", "22 March 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:2043238883",
+        "event": "R0 = 0.99",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 28","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "R0 after day 28"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 5,
+        "eventId": "E:1814417377",
+        "event": "Figure 4c,d",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "9 March 2020","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 2,
+        "eventId": "E:-1641634047",
+        "event": "9.8% and the perceived CFR is 13%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "9 March 2020","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:828911796",
+        "event": "9.8% and the perceived CFR is 13",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:-152277532",
+        "event": "9.8% and the perceived CFR is 13%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "9 March 2020","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:-62082370",
+        "event": "individuals are partitioned into the different subpopulations",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "46","20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:687500048",
+        "event": "3a,b shows,",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:626481983",
+        "event": "Figure 3c,d",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 5,
+        "eventId": "E:699682215",
+        "event": "Figure 4a,b",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 5,
+        "eventId": "E:1532229117",
+        "event": "Figure 4c,d",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) to 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "wrong event."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 4,
+        "para_num": 4,
+        "eventId": "E:859304604",
+        "event": "Healthcare workers are more the actual CFR",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 4,
+        "para_num": 3,
+        "eventId": "E:1133564818",
+        "event": "standard molecular methods to detect the presence of SARS-CoV-2 in respiand nature, predicting for each the timing and magnitude of the ratory samples are based on non-specific real-time polymerase epidemic peak",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 4,
+        "para_num": 6,
+        "eventId": "E:-1012477728",
+        "event": "partial implementation of  lockdown measures results in a delay in the peak of infected individuals and patients admitted to the ICU",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-881320914",
+        "event": "presence of  widespread testing and  contact tracing, which would strongly contribute to a rapid resolution of the epidemic",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:43253617",
+        "event": "Health are available28",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 5,
+        "para_num": 1,
+        "eventId": "E:1279938291",
+        "event": "countries that are still in the early 2",
+        "locationContext": [
+            "Italy", "China"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Actually this is conclusion for future studies since the authors suggest here that it is helpful for future studenss in countries that are still in early stages of pandemic."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:-30068147",
+        "event": "http://www.salute.gov.it/ nario will evolve to account for these ongoing innovations34-37",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:-1519300607",
+        "event": "Situation Report 76 ios, unaffected by the extent of social restriction and testing",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:-1891464611",
+        "event": "initial condition s(0), i(0)",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 7,
+        "para_num": 14,
+        "eventId": "E:-1840973756",
+        "event": "i(0), D(0), a(0), R(0), T(0), H(0), E(0) summing to 1,",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 7,
+        "para_num": 14,
+        "eventId": "E:-681281992",
+        "event": "initial condition s(0), i(0)",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1329835136",
+        "event": "P(t), which are defined as the squares of the errors",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Because our model allows us...which is SIDHARTHE"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 1,
+        "eventId": "E:-1632124212",
+        "event": "CFR, on apriori epidemiological and clinical information about the relative parameter",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 3,
+        "eventId": "E:-1476090315",
+        "event": "Relying An important indicator of the dynamics of an epidemiologic model is the CFR",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 3,
+        "eventId": "E:-887663699",
+        "event": "CFR, on apriori epidemiological and clinical information about the relative parameter",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 3,
+        "eventId": "E:1637586030",
+        "event": "coefficients of matrix F are going the sum of the squares of the errors",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1884084580",
+        "event": "delta = 0.005",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Delta on Day 22 during 46-day duration."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:1961062017",
+        "event": "nu = 0.015",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Day 22"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1097468837",
+        "event": "zeta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:569366907",
+        "event": "gamma = 0.200",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Day 22"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1187172586",
+        "event": "gamma =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1711717897",
+        "event": "gamma = 0.200",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1327552182",
+        "event": "eta = 0.034",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:1344814479",
+        "event": "beta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-634487533",
+        "event": "lambda = 0.08",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1695686238",
+        "event": "sigma = 0.017",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1","after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:869390918",
+        "event": "mu = 0.008",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:312535476",
+        "event": "yields alpha = 0.360",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:2103086844",
+        "event": "R0 = 1.60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:798633115",
+        "event": "beta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:163277477",
+        "event": "alpha = 0.422",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 4","20 February 2020 (day 1) through 5 April 2020 (day 46)", "24 February 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-1500685894",
+        "event": "final number of infected and alpha =",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:1743254667",
+        "event": "alpha = 0.422",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "after day 22, if no measures were taken"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-463215230",
+        "event": "hence R0 = 1.66",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "after day 22, if no measures were taken"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-669904333",
+        "event": "delta = 0.0057",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "after day 22, if no measures were taken"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:1344494215",
+        "event": "gamma = 0.285",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "after day 22, if no measures were taken"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:1070921508",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-151788097",
+        "event": "resulting basic reproduction number is R0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-2137169349",
+        "event": "R0 = 2.38",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-1345631289",
+        "event": "alpha = 0.285",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-1884382871",
+        "event": "gamma = 0.171",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-314375416",
+        "event": "hence R0 = 1.13",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 22","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:396610226",
+        "event": "R0 = 0.85",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-1763607671",
+        "event": "alpha = 0.200",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "300-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-1011002358",
+        "event": "gamma = 0.086",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "300-day horizon","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "Extended data suggests future prediction had stronger social distancing was in place"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:1861831670",
+        "event": "hence R0 = 0.787",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "300-day horizon","20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-1572510636",
+        "event": "many infected subjects are not than 1",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:-1804875165",
+        "event": "beta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-2111088241",
+        "event": "gamma = 0.285",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:1490812712",
+        "event": "R0 = 1.66",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-1216802709",
+        "event": "delta = 0.0057",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-1074100339",
+        "event": "alpha = 0.422",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:-1986674904",
+        "event": "gamma = 0.057",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:155223735",
+        "event": "current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0 = 0.0329,",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:-1509310060",
+        "event": "alpha =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:-1986665459",
+        "event": "are heavily subject countermeasures, alpha",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:-1057698567",
+        "event": "current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0 = 0.0329,",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:601031436",
+        "event": "are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:1876282727",
+        "event": "current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:969954497",
+        "event": "are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:1629622007",
+        "event": "hence R0 = 0.0329",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+           "300-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:-1811192641",
+        "event": "Alpha = 0.105",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:1538683979",
+        "event": "hence R0 = 0.50",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 11,
+        "eventId": "E:-1954833385",
+        "event": "T(t) is the number of life-threatened patients",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 11,
+        "eventId": "E:2131838026",
+        "event": "example, T(t) is",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 11,
+        "eventId": "E:1721889772",
+        "event": "T(t) is the number of life-threatened patients",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 11,
+        "eventId": "E:1329907748",
+        "event": "(hence epsilon is not set exactly to zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1145210825",
+        "event": "epsilon = 0.143",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:1224114065",
+        "event": "alpha = 0.420",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:-1731072141",
+        "event": "epsilon = 0.600",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50","after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:-384277565",
+        "event": "R0 = 0.77",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50","after day 22"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 11,
+        "eventId": "E:828893969",
+        "event": "xi = 0.020",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38"
+        ],
+        
+        "explanation": "Probably mistake - there is no xi"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 10,
+        "eventId": "E:763357679",
+        "event": "sigma = 0.010",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-461400426",
+        "event": "eta = 0.025",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1825845807",
+        "event": "yields epsilon = 0.200",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38,"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 9,
+        "eventId": "E:-1377935824",
+        "event": "kappa =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:-677228049",
+        "event": "actual CFR is ~7.2",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:-1637348177",
+        "event": "actual CFR is ~7.2%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:754414041",
+        "event": "actual CFR is ~7.2",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:1649744763",
+        "event": "perceived CFR is ~9.0",
+        "locationContext": [
+            "Italy"
+        ],
+
+        "temporalContext": [
+            "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:1545109496",
+        "event": "perceived CFR is ~9.0%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:646224693",
+        "event": "perceived CFR is ~9.0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-60934348",
+        "event": "1d, model",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:2017822845",
+        "event": "S = 1",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:47793134",
+        "event": "D = 20/60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": "error in the event - D=20/60e6 but D = 20/60, probably COSMOS bug too."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-1460898523",
+        "event": "i = 200/60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 19,
+        "para_num": 6,
+        "eventId": "E:1006588732",
+        "event": "R = 2/60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:1587742414",
+        "event": "E = 0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:725088047",
+        "event": "a = 1/60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": "error in the event - a=1/60e6 but a = 1/60, probably COSMOS bug too."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-290608662",
+        "event": "a = 1/60E6",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-1519085839",
+        "event": "a = 1/60",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": "error in the event - a=1/60e6 but a = 1/60, probably COSMOS bug too."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:1927207841",
+        "event": "H = 0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:658856851",
+        "event": "T = 0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:194228951",
+        "event": "R0 = 0.59",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:1123913231",
+        "event": "epsilon = 0.400",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:2029775791",
+        "event": "Alpha = 0.252",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:1004644681",
+        "event": "hence R0 = 0.98",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 10,
+        "eventId": "E:1000378263",
+        "event": "gamma = 0.110",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 28"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 10,
+        "eventId": "E:189583720",
+        "event": "alpha = 0.210",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 28"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 10,
+        "eventId": "E:-1988382573",
+        "event": "hence R0 = 0.99",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 28"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 71,
+        "eventId": "E:58591894",
+        "event": "R0 = 1.80",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 12"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-360781941",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:969361855",
+        "event": "lambda =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-802992564",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:640700622",
+        "event": "sigma = 0.017",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 8,
+        "eventId": "E:1425640667",
+        "event": "gamma = 0.456",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 8,
+        "eventId": "E:-1920136780",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 8,
+        "eventId": "E:310540943",
+        "event": "gamma =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:2096721491",
+        "event": "gamma = 0.456",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1694281381",
+        "event": "tau = 0.01",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 8,
+        "eventId": "E:1073743524",
+        "event": "tau =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:-1041157218",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:1398920567",
+        "event": "tau = 0.01",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-1004999856",
+        "event": "rho = 0.034",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-2111368565",
+        "event": "eta = 0.125",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1524269757",
+        "event": "alpha = 0.570",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1018266807",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-320484375",
+        "event": "alpha = 0.570, beta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1979956843",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9 ,
+        "para_num": 7,
+        "eventId": "E:-1281655879",
+        "event": "alpha =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:809391966",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:63160830",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:751813599",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-2062005651",
+        "event": "alpha = 0.570",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-829509392",
+        "event": "epsilon = 0.171",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1903971232",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1321813914",
+        "event": "epsilon = 0.171",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-2043294930",
+        "event": "mu = 0.017",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:45220614",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-2057015647",
+        "event": "mu = 0.017",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1232737057",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1250055462",
+        "event": "zeta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:110315687",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1499201520",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01,",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1070588265",
+        "event": "beta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1355408130",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01,",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:-19729389",
+        "event": "nu = 0.027",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:1283397217",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:-1462194608",
+        "event": "nu = 0.027",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:2041147191",
+        "event": "delta = 0.011",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1940008384",
+        "event": "theta = 0.371",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:710113064",
+        "event": "theta =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:1985183753",
+        "event": "alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1756661847",
+        "event": "theta = 0.371",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 3,
+        "eventId": "E:1758240559",
+        "event": "it can also be explained by the Italian criteria",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 12,
+        "eventId": "E:1466723749",
+        "event": "epidemic phenomenon based on current statistics",
+        "locationContext": [
+            "N/A"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 6,
+        "eventId": "E:1428997329",
+        "event": "evolution of the situation that leads to a peak in the number of concurrently infected individuals around day 25",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "300-day horizon","around day 25"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:272151088",
+        "event": "R = 2/60E6",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-898569701",
+        "event": "sigma = 0.010 and zeta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 38"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 3,
+        "eventId": "E:-2145380891",
+        "event": "model is weakly sensitive to the initial conditions",
+        "locationContext": [
+            "Italian population", "Italian society", "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020(day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 8,
+        "eventId": "E:870554055",
+        "event": "disease or stricter social-distancing measures), which typically results in a change Eventually, 0.086% of the population have contracted the virus",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:-702204444",
+        "event": "fraction of patients in need of intensive care, as shown in Extended Data Fig. 1h, conditions, but they are sensitive to the parameter values",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 9,
+        "eventId": "E:260720609",
+        "event": "they are sensitive to the parameter values",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22","over a 300-day horizon","over a 500-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 5,
+        "eventId": "E:-1798887038",
+        "event": "parameters that locally minimize the sum of the squares of the errors",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 7,
+        "eventId": "E:-1214668814",
+        "event": "D = 20/60E6",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:616789062",
+        "event": "initial data are affected by statistical distortion",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 1,
+        "eventId": "E:-1980909979",
+        "event": "quantity that can be computed based on our model",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug, missing some values between quantity and that can be"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:1589274462",
+        "event": "evolution that leads to a peak",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "over a 500-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:-1440574144",
+        "event": "number of life-threatening evolution that leads to 73% of the population having contracted",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 4,
+        "eventId": "E:475297378",
+        "event": "Italian criteria for (provisional) statistics, which lead to overestimation",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 5,
+        "eventId": "E:263146706",
+        "event": "fraction of patients in need of intensive care, as shown in Extended Data Fig. 1h, conditions, but they are sensitive to the parameter values",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 6,
+        "eventId": "E:-1265945219",
+        "event": "rho = 0.034 and kappa",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "at day 1"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1458697001",
+        "event": "lack of proper situation that leads to a peak",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 10,
+        "eventId": "E:-1185734221",
+        "event": "other transmission parameters, beta, gamma",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 10,
+        "eventId": "E:257972219",
+        "event": "other transmission parameters, beta, gamma and delta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 10,
+        "eventId": "E:-1350362465",
+        "event": "other transmission parameters, beta",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 10,
+        "eventId": "E:-251408844",
+        "event": "model is particularly sensitive to variations",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 9,
+        "eventId": "E:-633983257",
+        "event": "parameters that can be influenced by policymakers",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 15,
+        "eventId": "E:821541807",
+        "event": "more extensive screening for the disease or stricter social-distancing measures), which typically results in a change",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 14,
+        "eventId": "E:-2133017086",
+        "event": "possible underestimation or overestimation of the epidemic phenomenon based on current statistics",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 4,
+        "eventId": "E:1232417717",
+        "event": "model predictions in the long run are not very sensitive to the initial conditions",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-1030903926",
+        "event": "they are sensitive to the parameter values",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1225280336",
+        "event": "Pavia, Italy",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from foot notes."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-2031017717",
+        "event": "Fondazione Irccs Policlinico San Matteo, Pavia",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from foot notes."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:525202558",
+        "event": "Pavia, Italy",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from foot notes."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1338471470",
+        "event": "c,d, The long-term predicted evolution over a 350-day horizon",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "mixed up lines between the two columns."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1619552276",
+        "event": ",b, The short-term epidemic evolution obtained by reproducing the data trend with the model",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": "from figure caption i.e. description"
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 2,
+        "eventId": "E:-406739565",
+        "event": ",c, The difference between the actual evolution of the epidemic (solid lines",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "over a 350-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:1606954979",
+        "event": "model based on the available data about the COVID-19 outbreak",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "over a 350-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-590973074",
+        "event": ",c, The difference between the actual (real cases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "over a 350-day horizon"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:987131597",
+        "event": "I + D + A + R + T are zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1987745776",
+        "event": "I + D + A + R + T are zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:643863928",
+        "event": "I + D + A + R + T are zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-726209996",
+        "event": "D + A + R + T are zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:98444236",
+        "event": "A + R + T are zero",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-175175232",
+        "event": "infected individuals I + D + A + R + T are zero are the remaining variables S",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 1,
+        "eventId": "E:-1494366392",
+        "event": "All the possible Equilibria are given by  \u0016s",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1103986900",
+        "event": "I, D, A, R and T (the infected individuals), which are non-zero only during the transient",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1433348332",
+        "event": "T (the infected individuals), which are non-zero only during the transient",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1677171090",
+        "event": "R and T (the infected individuals), which are non-zero only during the transient",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-2029561753",
+        "event": "D, A, R and T (the infected individuals), which are non-zero only during the transient",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-909524389",
+        "event": "A, R and T (the infected individuals), which are non-zero only during the transient",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-592216364",
+        "event": "partition it into three subsystems",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-956718082",
+        "event": "r1 = epsilon + zeta + lambda, r2 = eta + rho, r3 = theta + mu + kappa, r4 = nu + xi and r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:628674932",
+        "event": "r4 = nu + xi and r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 4,
+        "eventId": "E:1291752591",
+        "event": "r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 5,
+        "eventId": "E:1400684402",
+        "event": "transfer function from u to yS in the system (9)-(13) is G(s)",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:255254999",
+        "event": "S represents the fraction of population",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:-261756836",
+        "event": "S represents the fraction of population",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:-903779288",
+        "event": "R0 = G(0) is the Hinfinity norm of the transfer function G(s",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:2075852459",
+        "event": "Hinfinity norm of G(s) is equal to the static gain G(0)",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:125043908",
+        "event": "action u td Th (1/4) S td ThyS td Th (1/4) S td Th alphaI th betaD th gammaA th deltaD d Th has a destabilizing effect on the IDART subsystem",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 4,
+        "eventId": "E:1459465309",
+        "event": "r1 = epsilon + zeta + lambda, r2 = eta + rho, r3 = theta + mu + kappa, r4 = nu + xi and r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:323045490",
+        "event": "r4 = nu + xi and r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:981649063",
+        "event": "r5 = sigma + tau",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 6,
+        "eventId": "E:1259218119",
+        "event": "T(0) = 0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 5,
+        "eventId": "E:-1396294667",
+        "event": "> 0 R1 i",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 8,
+        "para_num": 1,
+        "eventId": "E:-2054973289",
+        "event": "D(0) = A(0)",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 9,
+        "para_num": 8,
+        "eventId": "E:-1324830299",
+        "event": "formulas for \u0016H and \u0016E can be obtained by pre-multiplying the expression of above by fT and dT",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-306162978",
+        "event": "Zuccaro, L. Pagnucco, B. Mariani, S. Ludovisi, R. Lissandrin, A. Parisi, P. Sacchi, S.F.A",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from references."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-1213841567",
+        "event": "actual Case Fatality Rate is around 7.2%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:802784930",
+        "event": "actual Case Fatality Rate is around 7.2",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-1516095343",
+        "event": "actual Case Fatality Rate is around 7.2%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 2,
+        "eventId": "E:177225420",
+        "event": "perceived CFR is around 9.0%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-906253803",
+        "event": "perceived CFR is around 9.0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:21290282",
+        "event": "perceived CFR is around 9.0%",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 22", "in all cases"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-236633002",
+        "event": "panels (b), (d), (f",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-2120538946",
+        "event": "Panels (a), (c",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-1840041943",
+        "event": "panels (b), (d), (f),",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:1341120234",
+        "event": "panels (b), (d",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:1510923806",
+        "event": "panels (b), (d), (f), (h",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:1250590758",
+        "event": "Panels (a), (c), (e),",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:105165875",
+        "event": "Panels (a), (c), (e), (g",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug - this is from caption suggesting figures as panels."
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-1085720001",
+        "event": "chi=0, chi=0.1, chi=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 15,
+        "para_num": 1,
+        "eventId": "E:-794212984",
+        "event": "chi represents the rate at which immunity is lost",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:-38120382",
+        "event": "transmission coefficient alpha, whose nominal value is alpha=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:762066551",
+        "event": "transmission coefficient alpha, whose nominal value is alpha=0.21",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:1451462885",
+        "event": "model is extremely sensitive to variations",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:286033817",
+        "event": "transmission coefficient beta, whose nominal value is beta=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:379198937",
+        "event": "transmission coefficient beta, whose nominal value is beta=0.0050",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:-1066649954",
+        "event": "Increasing beta increases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 18,
+        "para_num": 1,
+        "eventId": "E:-2028267160",
+        "event": "transmission coefficient gamma, whose nominal value is gamma=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 22,
+        "para_num": 1,
+        "eventId": "E:-198771057",
+        "event": "transmission coefficient gamma, whose nominal value is gamma=0.11",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 22,
+        "para_num": 1,
+        "eventId": "E:-165203842",
+        "event": "Increasing gamma increases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 24,
+        "para_num": 1,
+        "eventId": "E:-576357039",
+        "event": "transmission coefficient delta, whose nominal value is delta=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 24,
+        "para_num": 1,
+        "eventId": "E:-976195312",
+        "event": "transmission coefficient delta, whose nominal value is delta=0.0050",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 24,
+        "para_num": 1,
+        "eventId": "E:861264416",
+        "event": "Increasing delta increases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 26,
+        "para_num": 1,
+        "eventId": "E:-172990564",
+        "event": "testing coefficient theta, whose nominal value is theta=0.3705",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 26,
+        "para_num": 1,
+        "eventId": "E:-2092505871",
+        "event": "theta decreases all the curves",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:49835453",
+        "event": "life-threatening symptoms, whose nominal values are mu=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1501142740",
+        "event": "relevant symptoms, whose nominal values are zeta=",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1070247140",
+        "event": "tau, whose nominal value is",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:542665628",
+        "event": "tau, whose nominal value is",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1768449968",
+        "event": "tau = 0.0100",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-101166514",
+        "event": "tau =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-2031308707",
+        "event": "tau = 0.0100",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-152086775",
+        "event": "sigma = 0.0100",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-1734273384",
+        "event": "sigma =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1145835819",
+        "event": "sigma = 0.0100",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:802410964",
+        "event": "life-threatening symptoms, whose nominal values are mu=0.0080",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1070981587",
+        "event": "xi = 0.0200",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-646474365",
+        "event": "kappa =",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-1871646866",
+        "event": "healing coefficient lambda, whose nominal value is lambda=0.0800",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1526712561",
+        "event": "healing coefficient lambda, whose nominal value is lambda=0",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1878571915",
+        "event": "kappa, xi and sigma, whose nominal values",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:2037626888",
+        "event": "nu = 0.0150",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:1950915806",
+        "event": "Increasing zeta and eta decreases the final number of infected and recovered, but also increases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:890854259",
+        "event": "number of symptomatic and life-threatening infections initially increases, to decrease",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:1152677709",
+        "event": "number of life-threatening infections initially increases, to decrease",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-1234410115",
+        "event": "Increasing mu and nu decreases the final number of infected and recovered, but also increases",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "20 February 2020 (day 1) through 5 April 2020 (day 46)"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:595762267",
+        "event": "nominal value of all the considered parameters is multiplied by 0.5, 0.8, 1, 1.2, 2, and the corresponding evolution of the model variables",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "modeling_covid_italy.pdf",
+        "page_num": 30,
+        "para_num": 1,
+        "eventId": "E:-343634579",
+        "event": "lambda, as well as the other healing parameters, decreases all the curves, apart from the curve of recovered patients",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "after day 50"
+        ],
+        
+        "explanation": ""
+    }
+]

@@ -1,0 +1,674 @@
+[
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 1,
+        "para_num": 2,
+        "eventId": "E:-1716002397",
+        "event": "detection of the first two COVID-19 cases",
+        "locationContext": [
+            "Rome","Italy"
+        ],
+        
+        "temporalContext": [
+            "between 31st January 2020", "beginning of June"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 1,
+        "para_num": 2,
+        "eventId": "E:902720017",
+        "event": "excess mortality of +118%",
+        "locationContext": [
+            "Lombardy", "Italy"
+        ],
+        
+        "temporalContext": [
+            "two months after the beginning of the first wave"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 1,
+        "para_num": 2,
+        "eventId": "E:-1163634376",
+        "event": "average mortality rate of the period 1 January-30 April",
+        "locationContext": [
+            "Lombardy"
+        ],
+        
+        "temporalContext": [
+            "1 January–30 April 2015–2019"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:378589066",
+        "event": "Livelli Essenziali di Assistenza, LEA",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "since the early 1990s"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:2048573837",
+        "event": "development of 21 different regional/provincial health care sub-systems",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "since the early 1990s"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:1023194711",
+        "event": "public health care expenditure was 74%",
+        "locationContext": [
+           "Italy"
+        ],
+        
+        "temporalContext": [
+            "2019"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-1500835818",
+        "event": "SSN has implemented a decentralised model since the early 1990s",
+        "locationContext": [
+           "Italy"
+        ],
+        
+        "temporalContext": [
+            "since the early 1990s"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-1948248775",
+        "event": "decentralised model has basically led to the development of 21 different regional/provincial health care sub-systems",
+        "locationContext": [
+           "Italy"
+        ],
+        
+        "temporalContext": [
+            "since the early 1990s"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-551179881",
+        "event": "2007 bail-out plans in some regions resulted in the downsizing of hospital capacity",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2007"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-1216777389",
+        "event": "cap to personnel costs in 2004, for example, led to a depletion of health care professionals' competencies",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2004"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-648141576",
+        "event": "new National Preparedness Plan (PanFlu 2021-2023),",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "more recently", "2021–2023"
+        ],
+        
+        "explanation": "not a citation, but a policy called PanFlu 2021-2023"
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-2045881973",
+        "event": "2005, the WHO issued",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2005"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 3,
+        "para_num": 3,
+        "eventId": "E:1899714711",
+        "event": "new plan includes an explicit monitoring function of the implementation of the plan",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2005"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:-120454001",
+        "event": "technical and scientific committee (hereafter CTS), comprising of high level civil servants from within the Ministry of Health, the Istituto Superiore di Sanita (National Institute of Health, ISS), regional governments and the same Civil Protection Department,",
+        "locationContext": [
+            "Lombardy", "Veneto", "Emilia-Romagna", "Piedmont","Italy"
+        ],
+        
+        "temporalContext": [
+            "on 3rd February"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:1038914529",
+        "event": "31st January 2020, the Italian Government declared",
+        "locationContext": [
+            "Italian"
+        ],
+        
+        "temporalContext": [
+            "31st January 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 4,
+        "para_num": 4,
+        "eventId": "E:738169968",
+        "event": "Residenza Sanitaria Assistenziale, RSA",
+        "locationContext": [
+            "Italy", "European countries and the USA","Lombardy"
+        ],
+        
+        "temporalContext": [
+            "between 1st February and 14th April"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 4,
+        "para_num": 4,
+        "eventId": "E:1507312830",
+        "event": "average of 9.1%",
+        "locationContext": [
+            "Italy", "European countries and the USA","Lombardy"
+        ],
+        
+        "temporalContext": [
+            "between 1st February and 14th April"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 4,
+        "para_num": 5,
+        "eventId": "E:-1668495985",
+        "event": "outbreak of SARS-CoV-2 has unevenly affected Italian regions",
+        "locationContext": [
+            "Italy", "Italian regions"
+        ],
+        
+        "temporalContext": [
+            "N/A"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:-1965077179",
+        "event": "COVID-19 crisis has also been instrumental in Italy, as in many other European countries, in fostering the adoption of already existing digital technology by shifting to, and increasing",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 crisis"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:-1691729564",
+        "event": "needs were dependent on the epidemiological development and severity of the COVID-19 outbreak",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "April 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 4,
+        "eventId": "E:166257913",
+        "event": "which, if completed, will result in a more than doubled overall pre-pandemic capacity",
+        "locationContext": [
+            "Italy", "Lombardy","Rome"
+        ],
+        
+        "temporalContext": [
+            "April 2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 4,
+        "eventId": "E:-2103842484",
+        "event": "pre-COVID-19 incidence of medical personnel of about 95 workers per 10,000",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "pre-COVID-19"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 4,
+        "eventId": "E:620437479",
+        "event": "number increased to 13,000 in 2014",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2014"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 5,
+        "para_num": 4,
+        "eventId": "E:428823888",
+        "event": "share which increased by 36% between 2000 and 2017",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "between 2000 and 2017"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 7,
+        "para_num": 2,
+        "eventId": "E:260642419",
+        "event": "share which increased",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "between 2000 and 2017", "2017"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 7,
+        "para_num": 2,
+        "eventId": "E:1158695828",
+        "event": "number increased",
+        "locationContext": [
+            "Italy", "Lombardy","Rome", "western European countries", "Spain"
+        ],
+        
+        "temporalContext": [
+            "between 2000 and 2017", "2017"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1225991413",
+        "event": "General Data Protection Regulation (GDPR),",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 crisis"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:485826745",
+        "event": "reimbursement codes, which caused the occurrence of inter-regional differences",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 crisis", "2020"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-765456869",
+        "event": "those affected by chronic conditions",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 health crisis", "2020"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1002533524",
+        "event": "it led to further investments in technological infrastructure necessary",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 crisis"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1987833444",
+        "event": "weekly total of 50,552 operations",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "12-week period"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1995612470",
+        "event": "capacity to treat surgical patients decrease",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "12-week period", "2020"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 9,
+        "para_num": 2,
+        "eventId": "E:-170867264",
+        "event": "mean rate of 13.3 emergency admissions per day",
+        "locationContext": [
+            "Italy", "northern Italy"
+        ],
+        
+        "temporalContext": [
+            "during the early days of the COVID-19 outbreak"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 9,
+        "para_num": 2,
+        "eventId": "E:1775953113",
+        "event": "incidence rate ratio, 0.70; 95% CI, 0.63 to 0.78; p < 0.001",
+        "locationContext": [
+            "Italy", "northern Italy"
+        ],
+        
+        "temporalContext": [
+            "during the early days of the COVID-19 outbreak"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 9,
+        "para_num": 1,
+        "eventId": "E:-1149302494",
+        "event": "rest of the major diagnostic groups, heavily affected by the emergency",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "during the COVID-19 emergency"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 10,
+        "para_num": 3,
+        "eventId": "E:-645984318",
+        "event": "Unita Speciali di Continuita Assistenziale, USCA,",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "early on in the pandemic (March 2020)"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 10,
+        "para_num": 4,
+        "eventId": "E:783854186",
+        "event": "they have contributed to the excess deaths observed",
+        "locationContext": [
+            "Italy", "Lombardy"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 crisis"
+        ],
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:-1356809400",
+        "event": "2019, the Italian government started",
+        "locationContext": [
+            "Italy"
+        ],
+        
+        "temporalContext": [
+            "2019"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:-1325102996",
+        "event": "Current government instructions are based on a three-tier regional risk assessment",
+        "locationContext": [
+            "Italy", "northern regions","Rome"
+        ],
+        
+        "temporalContext": [
+            "COVID-19 outbreak"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:-468736132",
+        "event": "daily rise of COVID-19 cases and related deaths, which led to the re-introduction of movement restrictions, curfews and early daily closures of businesses",
+        "locationContext": [
+            "Italy" 
+        ],
+        
+        "temporalContext": [
+            "COVID-19 pandemic"
+        ], 
+        
+        "explanation": ""
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:1209245408",
+        "event": "Newcastle Upon Tyne, UK, 4sda Bocconi School of Management, Bocconi University, Milano, Italy, 5Department of Social and Political Sciences, Bocconi University, Milano, Italy,",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ],
+        
+        "explanation": "bug? foot notes"
+    },
+    {
+        "paper": "response-to-covid-19-was-italy-unprepared.pdf.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-1322743276",
+        "event": "Does fiscal discipline towards subnational governments affect citizens' well-being",
+        "locationContext": [
+            ""
+        ],
+        
+        "temporalContext": [
+            ""
+        ], 
+        
+        "explanation": "From references section, bug?"
+    }
+]

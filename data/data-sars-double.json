@@ -1,0 +1,2764 @@
+[
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 1,
+        "para_num": 2,
+        "eventId": "E:-842756165",
+        "event": "the standard Susceptible-Infected-Removed (SIR) model cannot account for the patterns observed in various regions where the disease spread",
+        "locationContext": [
+            "Guangdong",
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "November 2002",
+            "February 21st, 2003", "February 21, 2003",
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:-2099349734",
+        "event": "set of coronavirus mediated epidemics that affected pigs",
+        "locationContext": [
+            "Guangdong Province",
+            "Hong Kong",
+            "China",
+            "Mainland China",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985",
+            "November 2002",
+            "February 21st, 2003", "February 21, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:-234630779",
+        "event": "It is based on the high mutation and  recombination rate of  coronaviruses [2], and on the observation",
+        "locationContext": [
+            "Guangdong Province",
+            "Hong Kong",
+            "China",
+            "Mainland China",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985",
+            "November 2002",
+            "February 21st, 2003", "February 21, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:133243356",
+        "event": "We also explore the possible situation where  viruses A and  B would be of totally different origin, but would cause an overlapping immune response of  the host",
+        "locationContext": [
+            "Guangdong Province",
+            "Hong Kong",
+            "Mainland China",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985",
+            "November 2002",
+            "February 21st, 2003", "February 21, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:-978116680",
+        "event": "it would cause gastroenteritis",
+        "locationContext": [
+            "Guangdong Province",
+            "Hong Kong",
+            "Mainland China",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985",
+            "November 2002",
+            "February 21st, 2003", "February 21, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:568001232",
+        "event": "the so called Susceptible-Infected-Removed (SIR) model which is simple and useful when one tries to understand the propagation of many real-life epidemics",
+        "locationContext": [
+            "China",
+            "Hong Kong",
+            "Mainland China",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:1717829459",
+        "event": "new model is still relatively simple",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-288683903",
+        "event": "S(t), I(t) and R(t) be the number of individuals in each of the corresponding class at time t. Note",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1509583947",
+        "event": "I(t) and R(t) be the number of individuals in each of the corresponding class at time t. Note",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:367164955",
+        "event": "R(t) be the number of individuals in each of the corresponding class at time t. Note",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-253766216",
+        "event": "R(t) is the cumulative number of  patients admitted to hospitals",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:1870125202",
+        "event": "It is of ten",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-1139992441",
+        "event": "infectives, I,",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:-403628784",
+        "event": "susceptibles, S,",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 3,
+        "eventId": "E:1117868815",
+        "event": "three functions are governed by the following system of  nonlinear ordinary differential equations",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 4,
+        "eventId": "E:688032372",
+        "event": "R increases",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 4,
+        "eventId": "E:326251251",
+        "event": "S decreases",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 4,
+        "eventId": "E:-2060872575",
+        "event": "t0 is the critical point of the function",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 4,
+        "eventId": "E:-258051935",
+        "event": "t0 is the critical point of the function",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:35628357",
+        "event": "relation rS(t0) = a holds",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 1,
+        "eventId": "E:2118226924",
+        "event": "R0>1",
+        "locationContext": [
+            "China",
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "1983",
+            "1985"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 2,
+        "eventId": "E:-2113463163",
+        "event": "R0 = r/",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "February 21st, 2003", "February 21, 2003",
+            "February 22"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 3,
+        "eventId": "E:-2021156789",
+        "event": "SIR model provides a general framework to understand the spread of a disease",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong Province"
+        ],
+        "temporalContext": [
+            "February 21st, 2003", "February 21, 2003",
+            "February 22"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 3,
+        "eventId": "E:1207715975",
+        "event": "SIR model provides a general framework to understand the spread of a disease",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong Province"
+        ],
+        "temporalContext": [
+            "February 21st, 2003", "February 21, 2003",
+            "February 22"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:-1504664915",
+        "event": "I curve decreases",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong Province"
+        ],
+        "temporalContext": [
+            "February 21st, 2003", "February 21, 2003",
+            "February 22"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 3,
+        "para_num": 4,
+        "eventId": "E:-1499528883",
+        "event": "BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong Province"
+        ],
+        "temporalContext": [
+            "February 21st, 2003", "February 21, 2003",
+            "February 22"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:-217619380",
+        "event": "Exposed class, labeled E,",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003", "03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:1527353860",
+        "event": "same level of  admissions per day will result in a higher total epidemic size for the SEIR model than for the SIR model",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:-495583562",
+        "event": "individuals move to the Infective class and thus contributing to the propagation of the epidemic",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:-1529935746",
+        "event": "SEIR model can produce much more interesting and complidR",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:-829264717",
+        "event": "SIR model is the limiting case of the SEIR model",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:600400887",
+        "event": "I(0) = 10",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:928721260",
+        "event": "r = 9.788 x 10-8",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:1751271620",
+        "event": "a = 2/3",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:-884505787",
+        "event": "small change in the parameters can result in a large difference",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 4,
+        "para_num": 1,
+        "eventId": "E:1531413011",
+        "event": "S(0) = 6.8 millions (e.g. the case of  Hong Kong) and  an initial infected class",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003","03/17", "03/20","03/23","03/26","03/29","04/01","04/04",
+            "04/07","04/10","04/13","04/16","04/19","04/22","04/25","04/28",
+            "05/01","05/04","05/07","05/10"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 1,
+        "eventId": "E:2096684959",
+        "event": "r = 9.88588 x 108",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 1,
+        "eventId": "E:1650272595",
+        "event": "Contrariwise, when we try to fit the data with respect to a hypothetical much smaller population, the sensitivity decreases",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 2,
+        "eventId": "E:109822002",
+        "event": "E stands for the Exposed class",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 2,
+        "eventId": "E:-146820354",
+        "event": "P stands for protection",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:1590668142",
+        "event": "class of Susceptibles, S,",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 5,
+        "para_num": 3,
+        "eventId": "E:1159456397",
+        "event": "spread of the infection within the population as a function of time",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1345308301",
+        "event": "r > 0",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1461207527",
+        "event": "gain in the exposed class E is at a rate proportional to the number of people in the infective class I and that of the susceptibles S",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1608877306",
+        "event": "e-bs ds = 1",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1381408362",
+        "event": "can be shown that the fraction of  people remaining in the exposed class E s time unit after entering class E is e-bs",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:625546990",
+        "event": "fraction of  people remaining in the infective class I s time unit after entering class I is e-as",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-771121484",
+        "event": "b is a positive number",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:1222539961",
+        "event": "a is a positive number",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-128948029",
+        "event": "rate of  removal of  infectives in class I to the removed class R is proportional to the number of infectives",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:1811231797",
+        "event": "rate of removal of people in infective class IP to the removal class RP is proportional to the number of people",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1472123149",
+        "event": "fraction of  people remaining in the exposed class E s time unit after entering class E",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:1947893789",
+        "event": "fraction of  people remaining in the infective class I s time unit after entering class I is e-as, so the length of the infectious period is disinfinityintegral",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1481050055",
+        "event": "onset to admission interval is equal to the sum of the latent period and the infectious period",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 1,
+        "eventId": "E:-1263037579",
+        "event": "onset to admission interval is equal to the sum of the latent period and the infectious period",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-624143426",
+        "event": "model mechanism is then governed by the following system of nonlinear ordinary differential equations",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-186786443",
+        "event": "our simpler model may already be good enough for this purpose",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 3,
+        "eventId": "E:1711310773",
+        "event": "IP(0) = 0",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 3,
+        "eventId": "E:250759682",
+        "event": "R(0) > 0",
+        "locationContext": [
+            "Hong Kong",
+            "Guangdong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 6,
+        "eventId": "E:489887684",
+        "event": "most of the daily new number of  confirmed cases from the community stayed around 15 to 25",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 6,
+        "eventId": "E:-1471884307",
+        "event": "apply the SEIRP model to study the outbreak of SARS in Hong Kong",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "This section Case study : the Outbreak of SARS in Hong Kong, suggests that this is for the span of march 17 2003 to may 10th 2003 since that was the data collected from."
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 7,
+        "eventId": "E:2011078989",
+        "event": "apply our model to study the outbreak of  SARS in Hong Kong",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "This section Case study : the Outbreak of SARS in Hong Kong, suggests that this is for the span of march 17 2003 to may 10th 2003 since that was the data collected from."
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 8,
+        "eventId": "E:-1475874140",
+        "event": "IP(0) = 0.5 million",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 8,
+        "eventId": "E:-190849072",
+        "event": "that is 0.5 million",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 8,
+        "eventId": "E:1940389886",
+        "event": "aP = 0.461",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:1131777758",
+        "event": "b = 0.103",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-1764790883",
+        "event": "a = 0.47",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-1383726319",
+        "event": "parameter values r = 10.19 x 10-8",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-6350885",
+        "event": "rP = 7.079 x 108",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:521992616",
+        "event": "parameter values r = 10.19 x 10-8, rP = 7.079 x 108,",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-206604789",
+        "event": "rP = 7.079 x 108",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-480908021",
+        "event": "S(0) = 6.8 - 0.5",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-691422602",
+        "event": "population of  Hong Kong is about 6.8 million",
+        "locationContext": [
+            "Hong Kong",
+            "Amoy Gardens"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:1564524065",
+        "event": "E(0) = 100",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:700983830",
+        "event": "i(0) = 50",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:993271049",
+        "event": "b = 0.103",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:-517951212",
+        "event": "a = 0.47",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:2070811295",
+        "event": "+ 1/b = 11.83",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:893188025",
+        "event": "observed mean of the time from onset to admission is about 3.75",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 9,
+        "eventId": "E:1169878603",
+        "event": "observed mean of the incubation period for SARS is 6.37",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-1242620787",
+        "event": "b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people are infected by disease B. S",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:1463647116",
+        "event": "b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-742230430",
+        "event": "b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people are infected by disease B. S",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-1772089733",
+        "event": "Case b We consider here the extreme case that IP(0) = 10, that is only 10",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:1933116445",
+        "event": "Case b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-405476092",
+        "event": "Case b We consider here the extreme case that IP(0) = 10, that is only 10",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:811203407",
+        "event": "I(0) = 50",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:2020673713",
+        "event": "E(0) = 100",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-278870092",
+        "event": "a = 0.52 and b = 0.105 and  therefore 1",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-1034241162",
+        "event": "+ 1/b = 11.44 which is close to the observed figure 10.12",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:2130352079",
+        "event": "aP = 0.12",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-1470618397",
+        "event": "r = 10.08 x 10-8",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-1183629194",
+        "event": "rP = 7.94 x 10-8",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:984168698",
+        "event": "a = 0.52",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:1795767668",
+        "event": "b = 0.105",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:-29240098",
+        "event": "IP(0) = 10",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:1138982546",
+        "event": "IP(0) = 10",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 7,
+        "para_num": 10,
+        "eventId": "E:961155701",
+        "event": "extreme case that IP(0) =",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1442295099",
+        "event": "RP = 12 millions",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "Case study : the Outbreak of SARS in Beijing"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1763550326",
+        "event": "RP = 12 millions",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "Case study : the Outbreak of SARS in Beijing"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 12,
+        "eventId": "E:-724343143",
+        "event": "b = 0.103",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1085138570",
+        "event": "IP(0) = 35000",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1577488090",
+        "event": "initial population S(0) was set to be 13.82 millions",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-269422342",
+        "event": "E(0) = 400",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-732426276",
+        "event": "I(0) = 340",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1140788243",
+        "event": "aP = 0.618",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1581552844",
+        "event": "rP = 10.79 x 10-8",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1582406032",
+        "event": "R(0) = 0",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1330787582",
+        "event": "a = 0.488",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-421663532",
+        "event": "r = 7.69 x 10-8",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:71584185",
+        "event": "RP(0) = 0",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-2144929051",
+        "event": "simulation results in a final value of  the total people infected with the SARS virus",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:-1971213694",
+        "event": "total number of people infected with the protective virus is RP = 12 millions",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:1654336587",
+        "event": "RP = 12 millions",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 2,
+        "eventId": "E:861706502",
+        "event": "applied the SEIRP model to study the outbreak of SARS in Beijing",
+        "locationContext": [
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1964973935",
+        "event": "aP = 0.272",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-844925172",
+        "event": "E(0) = 2",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1757616509",
+        "event": "other parameters (including the initial conditions) were optimised to ensure a good agreement with the data and were obtained to be E(0)",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:619564074",
+        "event": "E(0) = 2",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1873199442",
+        "event": "R(0) = 0",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-296723442",
+        "event": "b = 7.644",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-451638664",
+        "event": "IP(0) = 137638",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:1021366267",
+        "event": "I(0) = 32",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1922186476",
+        "event": "a = 0.120",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1946924858",
+        "event": "S(0) = 23.67 millions",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:636923970",
+        "event": "r = 1.62 x 10-8",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:868618612",
+        "event": "RP(0) = 0",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:120522128",
+        "event": "S(0) was The total population was taken to be S",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1261975939",
+        "event": "S(0) was The total population was taken to be S",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:730155855",
+        "event": "rP = 3.87 x 10-8",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-2031139075",
+        "event": "value of Rinfinity to be 350",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-206725614",
+        "event": "it is then rather related to the health policy than to the disease",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1292362217",
+        "event": "b is related to the latent period of  the disease; as such it is indeed more characteristic of the disease itself than the parameter",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-2078504555",
+        "event": "reciprocal 1/b is related to the latent period of  the disease",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1342153314",
+        "event": "it may still be affected by the geographic region",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:1241253434",
+        "event": "estimating them from the data",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 8,
+        "para_num": 3,
+        "eventId": "E:-1056780784",
+        "event": "BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "may not an event, but page header?"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-588333412",
+        "event": "r and rP are related to the infective rates",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:1868582194",
+        "event": "rP are related to the infective rates",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:381749299",
+        "event": "parameters r and rP are related to the infective rates",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:1450684030",
+        "event": "rP are related to the infective rates",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 10,
+        "para_num": 1,
+        "eventId": "E:-2113527440",
+        "event": "infective rates that may depend on the hygienic situation",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:1700240650",
+        "event": "mathematical models can have several functions",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 11,
+        "para_num": 1,
+        "eventId": "E:527339462",
+        "event": "SARS [14], a coronavirus",
+        "locationContext": [
+            "Europe",
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 11,
+        "para_num": 2,
+        "eventId": "E:1600242282",
+        "event": "virus and its variant caused a double epidemic",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 11,
+        "para_num": 2,
+        "eventId": "E:-1787604617",
+        "event": "nature of the virus that causes SARS",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 11,
+        "para_num": 2,
+        "eventId": "E:1892020837",
+        "event": "many possibilities based on virus behavior",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-1499528883",
+        "event": "BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "misdetected as event, is actually page header?"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-1225283277",
+        "event": "incubation period plus the time from onset to admission is about 10.12 days",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "the authors quote from a citation that 'regarding SARS outbreak in Hong kong'"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:714170917",
+        "event": "incubation period plus the time from onset to admission is about 10.12",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "the authors quote from a citation that 'regarding SARS outbreak in Hong kong'"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:575491428",
+        "event": "incubation period plus the time from onset to admission is about 10.12 days",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "the authors quote from a citation that 'regarding SARS outbreak in Hong kong'"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:2099171457",
+        "event": "1/b is about 11.8",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-742827156",
+        "event": "incubation period plus the time from onset to admission is about 1",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 13,
+        "para_num": 1,
+        "eventId": "E:-97835650",
+        "event": "incubation period plus the time from onset to admission is about 10.12 days",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-1499528883",
+        "event": "BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",
+        "locationContext": [
+            ""
+        ],
+        "temporalContext": [
+            ""
+        ],
+        "explanation": "is a page header, not an event"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 14,
+        "para_num": 1,
+        "eventId": "E:-1904840416",
+        "event": "difference of behaviour between e.g. the final size of the epidemic as given by this simulations is sometimes important",
+        "locationContext": [
+            "Inner Mongolia"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 14,
+        "para_num": 2,
+        "eventId": "E:-1543473600",
+        "event": "the model does not hold (indicating",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 15,
+        "para_num": 2,
+        "eventId": "E:-708689561",
+        "event": "Our model would then be useful to enforce proper precautionary measures immediately",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 15,
+        "para_num": 2,
+        "eventId": "E:1431006785",
+        "event": "the simple model of contagion by a single stable virus does not hold",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 15,
+        "para_num": 2,
+        "eventId": "E:1142341819",
+        "event": "SIR model cannot represent the unfolding of the SARS epidemic",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 15,
+        "para_num": 2,
+        "eventId": "E:-662418356",
+        "event": "data may be inaccurate to account for the reality of the epidemic",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 15,
+        "para_num": 7,
+        "eventId": "E:-1532248462",
+        "event": "Paris VI University, Dr. W.K",
+        "locationContext": [
+            "Inner Mongolia",
+            "Hong Kong",
+            "Beijing",
+            "Paris"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 2,
+        "eventId": "E:-909761626",
+        "event": "r is the infection rate",
+        "locationContext": [
+            "China",
+            "Hong Kong",
+            "Beijing",
+            "Shanghai"
+        ],
+        "temporalContext": [
+            "March 17, 2003",
+            "May 10, 2003"
+        ],
+        "explanation": "Hong Kong and other cities, so others are Beijing, Shanghai and since China was also part of this context."
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:-950785242",
+        "event": "dI = 0",
+        "locationContext": [
+            ""
+        ],
+        "temporalContext": [
+            ""
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 1,
+        "para_num": 1,
+        "eventId": "E:1291758595",
+        "event": "t p p = - ( ) ( ) - ( ) ( ) ( ) dt dE 2 rS t I t bE t = ( ) ( ) - ( ) ( ) dt dI bbE t aI t 3 = ( ) - ( ) ( ) dt dR aI t 4 =",
+        "locationContext": [
+            ""
+        ],
+        "temporalContext": [
+            ""
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:1218785262",
+        "event": "r and rP are related to the infection rate of disease A and B",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:1210515635",
+        "event": "r and rP are related to the infection rate of disease A and B",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 2,
+        "para_num": 1,
+        "eventId": "E:-18729564",
+        "event": "a, aP and b are the removal rate of individuals in class I, IP and E",
+        "locationContext": [
+            ""
+        ],
+        "temporalContext": [
+            ""
+        ],
+        "explanation": "No location/temporal context"
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-405987184",
+        "event": "a, aP and b are the removal rate of individuals in class I, IP and E",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-1118752932",
+        "event": "a, aP and b are the removal rate of individuals in class I, IP and E",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:321935277",
+        "event": "N is the total population",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:220936051",
+        "event": "random contact by an infective with a susceptible, who can then transmit infection, is S",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-2089066861",
+        "event": "r and rP are related to the infection rate of disease A and B",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    },
+    {
+        "paper": "sarsdouble.pdf",
+        "page_num": 6,
+        "para_num": 2,
+        "eventId": "E:-526523558",
+        "event": "rP are related to the infection rate of disease A and B",
+        "locationContext": [
+            "Hong Kong"
+        ],
+        "temporalContext": [
+            "17 March, 2003",
+            "10 May, 2003"
+        ],
+        "explanation": ""
+    }
+]
