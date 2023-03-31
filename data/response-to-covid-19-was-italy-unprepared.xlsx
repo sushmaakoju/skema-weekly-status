@@ -1,0 +1,43 @@
+,page_num,para_num,event,locationContext,temporalContext,explanation,pg_num,blk_id,sentence_id,doc_sentence_count
+0,1,2,detection of the first two COVID-19 cases,"['Rome', 'Italy']","['between 31st January 2020', 'beginning of June']",,1,11,1,8
+1,1,2,excess mortality of +118%,"['Lombardy', 'Italy']",['two months after the beginning of the first wave'],,1,11,4,8
+2,1,2,average mortality rate of the period 1 January-30 April,['Lombardy'],['1 January–30 April 2015–2019'],,1,11,4,8
+3,2,1,"Livelli Essenziali di Assistenza, LEA",['Italy'],['since the early 1990s'],,2,3,6,14
+4,2,1,development of 21 different regional/provincial health care sub-systems,['Italy'],['since the early 1990s'],,2,3,9,14
+5,2,2,public health care expenditure was 74%,['Italy'],['2019'],,2,3,2,14
+6,2,2,SSN has implemented a decentralised model since the early 1990s,['Italy'],['since the early 1990s'],,2,3,5,14
+7,2,2,decentralised model has basically led to the development of 21 different regional/provincial health care sub-systems,['Italy'],['since the early 1990s'],,2,3,9,14
+8,2,2,2007 bail-out plans in some regions resulted in the downsizing of hospital capacity,['Italy'],['2007'],,2,3,12,14
+9,2,2,"cap to personnel costs in 2004, for example, led to a depletion of health care professionals' competencies",['Italy'],['2004'],,2,3,11,14
+10,2,2,"new National Preparedness Plan (PanFlu 2021-2023),",['Italy'],"['more recently', '2021–2023']","not a citation, but a policy called PanFlu 2021-2023",2,4,10,13
+11,2,3,"2005, the WHO issued",['Italy'],['2005'],,2,4,3,13
+12,3,3,new plan includes an explicit monitoring function of the implementation of the plan,['Italy'],['2005'],,2,4,12,13
+13,3,4,"technical and scientific committee (hereafter CTS), comprising of high level civil servants from within the Ministry of Health, the Istituto Superiore di Sanita (National Institute of Health, ISS), regional governments and the same Civil Protection Department,","['Lombardy', 'Veneto', 'Emilia-Romagna', 'Piedmont', 'Italy']",['on 3rd February'],,3,2,9,21
+14,3,4,"31st January 2020, the Italian Government declared",['Italian'],['31st January 2020'],,3,2,5,21
+15,4,4,"Residenza Sanitaria Assistenziale, RSA","['Italy', 'European countries and the USA', 'Lombardy']",['between 1st February and 14th April'],,4,2,20,23
+16,4,4,average of 9.1%,"['Italy', 'European countries and the USA', 'Lombardy']",['between 1st February and 14th April'],,4,2,22,23
+17,4,5,outbreak of SARS-CoV-2 has unevenly affected Italian regions,"['Italy', 'Italian regions']",['N/A'],,4,2,17,23
+18,5,3,"COVID-19 crisis has also been instrumental in Italy, as in many other European countries, in fostering the adoption of already existing digital technology by shifting to, and increasing",['Italy'],['COVID-19 crisis'],,5,3,2,3
+19,5,3,needs were dependent on the epidemiological development and severity of the COVID-19 outbreak,['Italy'],['April 2020'],,5,5,3,6
+20,5,4,"which, if completed, will result in a more than doubled overall pre-pandemic capacity","['Italy', 'Lombardy', 'Rome']",['April 2020'],,5,5,2,6
+21,5,4,"pre-COVID-19 incidence of medical personnel of about 95 workers per 10,000",['Italy'],['pre-COVID-19'],,7,3,8,12
+22,5,4,"number increased to 13,000 in 2014",['Italy'],['2014'],,7,3,8,12
+23,5,4,share which increased by 36% between 2000 and 2017,['Italy'],['between 2000 and 2017'],,7,3,4,12
+24,7,2,share which increased,['Italy'],"['between 2000 and 2017', '2017']",,7,3,4,12
+25,7,2,number increased,"['Italy', 'Lombardy', 'Rome', 'western European countries', 'Spain']","['between 2000 and 2017', '2017']",,7,3,8,12
+26,8,3,"General Data Protection Regulation (GDPR),",['Italy'],['COVID-19 crisis'],,8,2,8,15
+27,8,2,"reimbursement codes, which caused the occurrence of inter-regional differences",['Italy'],"['COVID-19 crisis', '2020']",,8,2,5,15
+28,8,2,those affected by chronic conditions,['Italy'],"['COVID-19 health crisis', '2020']",,8,2,1,15
+29,8,3,it led to further investments in technological infrastructure necessary,['Italy'],['COVID-19 crisis'],,8,2,11,15
+30,8,3,"weekly total of 50,552 operations",['Italy'],['12-week period'],,8,4,2,6
+31,8,3,capacity to treat surgical patients decrease,['Italy'],"['12-week period', '2020']",,8,4,1,6
+32,9,2,mean rate of 13.3 emergency admissions per day,"['Italy', 'northern Italy']",['during the early days of the COVID-19 outbreak'],,9,1,4,5
+33,9,2,"incidence rate ratio, 0.70; 95% CI, 0.63 to 0.78; p < 0.001","['Italy', 'northern Italy']",['during the early days of the COVID-19 outbreak'],,9,1,4,5
+34,9,1,"rest of the major diagnostic groups, heavily affected by the emergency",['Italy'],['during the COVID-19 emergency'],,9,1,2,5
+35,10,3,"Unita Speciali di Continuita Assistenziale, USCA,",['Italy'],['early on in the pandemic (March 2020)'],,10,1,8,21
+36,10,4,they have contributed to the excess deaths observed,"['Italy', 'Lombardy']",['COVID-19 crisis'],,10,1,13,21
+37,11,1,"2019, the Italian government started",['Italy'],['2019'],,11,2,6,9
+38,11,1,Current government instructions are based on a three-tier regional risk assessment,"['Italy', 'northern regions', 'Rome']",['COVID-19 outbreak'],,11,2,1,9
+39,11,1,"daily rise of COVID-19 cases and related deaths, which led to the re-introduction of movement restrictions, curfews and early daily closures of businesses",['Italy'],['COVID-19 pandemic'],,11,2,2,9
+40,11,1,"Newcastle Upon Tyne, UK, 4sda Bocconi School of Management, Bocconi University, Milano, Italy, 5Department of Social and Political Sciences, Bocconi University, Milano, Italy,",[''],[''],bug? foot notes,1,6,0,2
+41,13,1,Does fiscal discipline towards subnational governments affect citizens' well-being,[''],[''],"From references section, bug?",13,1,16,39

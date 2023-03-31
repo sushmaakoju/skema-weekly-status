@@ -1,0 +1,173 @@
+,page_num,para_num,event,locationContext,temporalContext,explanation,pg_num,blk_id,sentence_id,doc_sentence_count
+0,1,2,the standard Susceptible-Infected-Removed (SIR) model cannot account for the patterns observed in various regions where the disease spread,"['Guangdong', 'China', 'Hong Kong']","['November 2002', 'February 21st, 2003', 'February 21, 2003', '1983', '1985']",,1,12,0,4
+1,2,1,set of coronavirus mediated epidemics that affected pigs,"['Guangdong Province', 'Hong Kong', 'China', 'Mainland China', 'Beijing', 'Shanghai']","['1983', '1985', 'November 2002', 'February 21st, 2003', 'February 21, 2003']",,2,0,3,14
+2,2,1,"It is based on the high mutation and  recombination rate of  coronaviruses [2], and on the observation","['Guangdong Province', 'Hong Kong', 'China', 'Mainland China', 'Beijing', 'Shanghai']","['1983', '1985', 'November 2002', 'February 21st, 2003', 'February 21, 2003']",,2,0,5,14
+3,2,1,"We also explore the possible situation where  viruses A and  B would be of totally different origin, but would cause an overlapping immune response of  the host","['Guangdong Province', 'Hong Kong', 'Mainland China', 'Beijing', 'Shanghai']","['1983', '1985', 'November 2002', 'February 21st, 2003', 'February 21, 2003']",,2,0,10,14
+4,2,1,it would cause gastroenteritis,"['Guangdong Province', 'Hong Kong', 'Mainland China', 'Beijing', 'Shanghai']","['1983', '1985', 'November 2002', 'February 21st, 2003', 'February 21, 2003']",,2,0,8,14
+5,2,2,the so called Susceptible-Infected-Removed (SIR) model which is simple and useful when one tries to understand the propagation of many real-life epidemics,"['China', 'Hong Kong', 'Mainland China', 'Beijing', 'Shanghai']","['1983', '1985']",,2,2,1,4
+6,2,2,new model is still relatively simple,"['China', 'Hong Kong']","['1983', '1985']",,2,2,3,4
+7,2,3,"S(t), I(t) and R(t) be the number of individuals in each of the corresponding class at time t. Note","['China', 'Hong Kong']","['1983', '1985']",,2,5,5,8
+8,2,3,I(t) and R(t) be the number of individuals in each of the corresponding class at time t. Note,"['China', 'Hong Kong']","['1983', '1985']",,2,5,5,8
+9,2,3,R(t) be the number of individuals in each of the corresponding class at time t. Note,"['China', 'Hong Kong']","['1983', '1985']",,2,5,5,8
+10,2,3,R(t) is the cumulative number of  patients admitted to hospitals,"['China', 'Hong Kong']","['1983', '1985']",,2,5,6,8
+11,2,3,It is of ten,"['China', 'Hong Kong']","['1983', '1985']",,2,5,6,8
+12,2,3,"infectives, I,","['China', 'Hong Kong']","['1983', '1985']",,2,5,2,8
+13,2,3,"susceptibles, S,","['China', 'Hong Kong']","['1983', '1985']",,2,5,2,8
+14,2,3,three functions are governed by the following system of  nonlinear ordinary differential equations,"['China', 'Hong Kong']","['1983', '1985']",,2,5,7,8
+15,2,4,R increases,"['China', 'Hong Kong']","['1983', '1985']",,2,7,0,2
+16,2,4,S decreases,"['China', 'Hong Kong']","['1983', '1985']",,2,7,0,2
+17,2,4,t0 is the critical point of the function,"['China', 'Hong Kong']","['1983', '1985']",,2,8,1,2
+18,2,4,t0 is the critical point of the function,"['China', 'Hong Kong']","['1983', '1985']",,2,8,1,2
+19,3,1,relation rS(t0) = a holds,"['China', 'Hong Kong']","['1983', '1985']",,3,7,0,3
+20,3,1,R0>1,"['China', 'Hong Kong']","['1983', '1985']",,3,8,3,5
+21,3,2,R0 = r/,['Hong Kong'],"['February 21st, 2003', 'February 21, 2003', 'February 22']",,3,8,2,5
+22,3,3,SIR model provides a general framework to understand the spread of a disease,"['Hong Kong', 'Guangdong Province']","['February 21st, 2003', 'February 21, 2003', 'February 22']",,3,9,0,6
+23,3,3,SIR model provides a general framework to understand the spread of a disease,"['Hong Kong', 'Guangdong Province']","['February 21st, 2003', 'February 21, 2003', 'February 22']",,3,9,0,6
+24,3,4,I curve decreases,"['Hong Kong', 'Guangdong Province']","['February 21st, 2003', 'February 21, 2003', 'February 22']",,3,11,5,11
+25,1,1,"BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",[''],[''],"is a page header, not an event",14,0,0,1
+26,4,1,"Exposed class, labeled E,","['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,5,0,6
+27,4,1,same level of  admissions per day will result in a higher total epidemic size for the SEIR model than for the SIR model,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,5,4,6
+28,4,1,individuals move to the Infective class and thus contributing to the propagation of the epidemic,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,5,4,6
+29,4,1,SEIR model can produce much more interesting and complidR,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,5,2,6
+30,4,1,SIR model is the limiting case of the SEIR model,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,5,4,6
+31,4,1,I(0) = 10,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,7,2,4
+32,4,1,r = 9.788 x 10-8,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,7,2,4
+33,4,1,a = 2/3,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,7,2,4
+34,4,1,small change in the parameters can result in a large difference,['Hong Kong'],"['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,7,1,4
+35,4,1,S(0) = 6.8 millions (e.g. the case of  Hong Kong) and  an initial infected class,['Hong Kong'],"['March 17, 2003', 'May 10, 2003', '03/17', '03/20', '03/23', '03/26', '03/29', '04/01', '04/04', '04/07', '04/10', '04/13', '04/16', '04/19', '04/22', '04/25', '04/28', '05/01', '05/04', '05/07', '05/10']",,4,7,2,4
+36,5,1,r = 9.88588 x 108,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,6,0,9
+37,5,1,"Contrariwise, when we try to fit the data with respect to a hypothetical much smaller population, the sensitivity decreases","['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,6,2,9
+38,5,2,E stands for the Exposed class,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,8,1,5
+39,5,2,P stands for protection,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,8,1,5
+40,5,3,"class of Susceptibles, S,","['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,9,7,10
+41,5,3,spread of the infection within the population as a function of time,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,5,9,2,10
+42,6,1,r > 0,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,4,0,1
+43,6,1,gain in the exposed class E is at a rate proportional to the number of people in the infective class I and that of the susceptibles S,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,4,0,1
+44,6,1,e-bs ds = 1,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,1,5
+45,6,1,can be shown that the fraction of  people remaining in the exposed class E s time unit after entering class E is e-bs,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,1,5
+46,6,1,fraction of  people remaining in the infective class I s time unit after entering class I is e-as,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,4,5
+47,6,1,b is a positive number,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,0,5
+48,6,1,a is a positive number,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,3,5
+49,6,1,rate of  removal of  infectives in class I to the removed class R is proportional to the number of infectives,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,3,5
+50,6,1,rate of removal of people in infective class IP to the removal class RP is proportional to the number of people,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,4,5
+51,6,1,fraction of  people remaining in the exposed class E s time unit after entering class E,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,1,5
+52,6,1,"fraction of  people remaining in the infective class I s time unit after entering class I is e-as, so the length of the infectious period is disinfinityintegral","['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,7,4,5
+53,6,1,onset to admission interval is equal to the sum of the latent period and the infectious period,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,12,0,1
+54,6,1,onset to admission interval is equal to the sum of the latent period and the infectious period,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,12,0,1
+55,6,2,model mechanism is then governed by the following system of nonlinear ordinary differential equations,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,13,1,2
+56,6,2,our simpler model may already be good enough for this purpose,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,6,15,2,5
+57,7,3,IP(0) = 0,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,7,3,0,1
+58,7,3,R(0) > 0,"['Hong Kong', 'Guangdong']","['March 17, 2003', 'May 10, 2003']",,7,3,0,1
+59,7,6,most of the daily new number of  confirmed cases from the community stayed around 15 to 25,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,6,2,3
+60,7,6,apply the SEIRP model to study the outbreak of SARS in Hong Kong,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']","This section Case study : the Outbreak of SARS in Hong Kong, suggests that this is for the span of march 17 2003 to may 10th 2003 since that was the data collected from.",7,6,0,3
+61,7,7,apply our model to study the outbreak of  SARS in Hong Kong,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']","This section Case study : the Outbreak of SARS in Hong Kong, suggests that this is for the span of march 17 2003 to may 10th 2003 since that was the data collected from.",7,7,0,3
+62,7,8,IP(0) = 0.5 million,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,0,9
+63,7,8,that is 0.5 million,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,0,9
+64,7,8,aP = 0.461,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+65,7,9,b = 0.103,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+66,7,9,a = 0.47,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+67,7,9,parameter values r = 10.19 x 10-8,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+68,7,9,rP = 7.079 x 108,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+69,7,9,"parameter values r = 10.19 x 10-8, rP = 7.079 x 108,","['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+70,7,9,rP = 7.079 x 108,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,5,9
+71,7,9,S(0) = 6.8 - 0.5,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,2,9
+72,7,9,population of  Hong Kong is about 6.8 million,"['Hong Kong', 'Amoy Gardens']","['March 17, 2003', 'May 10, 2003']",,7,10,2,9
+73,7,9,E(0) = 100,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,10,3,9
+74,7,9,i(0) = 50,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,10,3,9
+75,7,9,b = 0.103,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,11,1,5
+76,7,9,a = 0.47,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,11,1,5
+77,7,9,+ 1/b = 11.83,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,11,1,5
+78,7,9,observed mean of the time from onset to admission is about 3.75,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,11,3,5
+79,7,9,observed mean of the incubation period for SARS is 6.37,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,11,2,5
+80,7,10,"b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people are infected by disease B. S",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+81,7,10,"b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+82,7,10,"b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people are infected by disease B. S",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+83,7,10,"Case b We consider here the extreme case that IP(0) = 10, that is only 10",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+84,7,10,"Case b We consider here the extreme case that IP(0) = 10, that is only 10 Hong Kong people",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+85,7,10,"Case b We consider here the extreme case that IP(0) = 10, that is only 10",['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+86,7,10,I(0) = 50,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+87,7,10,E(0) = 100,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+88,7,10,a = 0.52 and b = 0.105 and  therefore 1,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,5,8
+89,7,10,+ 1/b = 11.44 which is close to the observed figure 10.12,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,5,8
+90,7,10,aP = 0.12,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,1,8
+91,7,10,r = 10.08 x 10-8,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,1,8
+92,7,10,rP = 7.94 x 10-8,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,1,8
+93,7,10,a = 0.52,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,1,8
+94,7,10,b = 0.105,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,1,8
+95,7,10,IP(0) = 10,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,7,8
+96,7,10,IP(0) = 10,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,7,8
+97,7,10,extreme case that IP(0) =,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,7,12,0,8
+98,8,2,RP = 12 millions,['Beijing'],"['March 17, 2003', 'May 10, 2003']",Case study : the Outbreak of SARS in Beijing,8,7,4,6
+99,8,2,RP = 12 millions,['Beijing'],"['March 17, 2003', 'May 10, 2003']",Case study : the Outbreak of SARS in Beijing,8,7,4,6
+100,8,12,b = 0.103,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+101,8,2,IP(0) = 35000,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+102,8,2,initial population S(0) was set to be 13.82 millions,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+103,8,2,E(0) = 400,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+104,8,2,I(0) = 340,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+105,8,2,aP = 0.618,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+106,8,2,rP = 10.79 x 10-8,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+107,8,2,R(0) = 0,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+108,8,2,a = 0.488,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+109,8,2,r = 7.69 x 10-8,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+110,8,2,RP(0) = 0,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,2,6
+111,8,2,simulation results in a final value of  the total people infected with the SARS virus,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,5,6
+112,8,2,total number of people infected with the protective virus is RP = 12 millions,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,4,6
+113,8,2,RP = 12 millions,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,4,6
+114,8,2,applied the SEIRP model to study the outbreak of SARS in Beijing,['Beijing'],"['March 17, 2003', 'May 10, 2003']",,8,7,0,6
+115,8,3,aP = 0.272,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+116,8,3,E(0) = 2,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+117,8,3,other parameters (including the initial conditions) were optimised to ensure a good agreement with the data and were obtained to be E(0),['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+118,8,3,E(0) = 2,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+119,8,3,R(0) = 0,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+120,8,3,b = 7.644,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+121,8,3,IP(0) = 137638,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+122,8,3,I(0) = 32,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+123,8,3,a = 0.120,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+124,8,3,S(0) = 23.67 millions,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+125,8,3,r = 1.62 x 10-8,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+126,8,3,RP(0) = 0,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+127,8,3,S(0) was The total population was taken to be S,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+128,8,3,S(0) was The total population was taken to be S,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+129,8,3,rP = 3.87 x 10-8,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,2,5
+130,8,3,value of Rinfinity to be 350,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,8,9,4,5
+131,8,3,it is then rather related to the health policy than to the disease,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,9,5,1,4
+132,8,3,b is related to the latent period of  the disease; as such it is indeed more characteristic of the disease itself than the parameter,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,9,6,0,3
+133,8,3,reciprocal 1/b is related to the latent period of  the disease,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,9,6,0,3
+134,8,3,it may still be affected by the geographic region,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,9,6,0,3
+135,8,3,estimating them from the data,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,9,8,0,3
+136,8,3,"BMC Infectious Diseases 2003, 3 s e s a c f o r e b m u N",['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']","may not an event, but page header?",10,0,0,3
+137,10,1,r and rP are related to the infective rates,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,7,0,7
+138,10,1,rP are related to the infective rates,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,7,0,7
+139,10,1,parameters r and rP are related to the infective rates,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,7,0,7
+140,10,1,rP are related to the infective rates,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,7,0,7
+141,10,1,infective rates that may depend on the hygienic situation,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,7,0,7
+142,11,1,mathematical models can have several functions,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,10,8,2,10
+143,11,1,"SARS [14], a coronavirus","['Europe', 'Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,11,5,5,9
+144,11,2,virus and its variant caused a double epidemic,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,11,5,5,9
+145,11,2,nature of the virus that causes SARS,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,11,5,5,9
+146,11,2,many possibilities based on virus behavior,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,11,5,2,9
+147,13,1,incubation period plus the time from onset to admission is about 10.12 days,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",the authors quote from a citation that 'regarding SARS outbreak in Hong kong',13,6,10,14
+148,13,1,incubation period plus the time from onset to admission is about 10.12,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",the authors quote from a citation that 'regarding SARS outbreak in Hong kong',13,6,10,14
+149,13,1,incubation period plus the time from onset to admission is about 10.12 days,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",the authors quote from a citation that 'regarding SARS outbreak in Hong kong',13,6,10,14
+150,13,1,1/b is about 11.8,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,13,6,11,14
+151,13,1,incubation period plus the time from onset to admission is about 1,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,13,6,11,14
+152,13,1,incubation period plus the time from onset to admission is about 10.12 days,['Hong Kong'],"['March 17, 2003', 'May 10, 2003']",,13,6,10,14
+153,14,1,difference of behaviour between e.g. the final size of the epidemic as given by this simulations is sometimes important,['Inner Mongolia'],"['March 17, 2003', 'May 10, 2003']",,14,4,0,6
+154,14,2,the model does not hold (indicating,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,14,8,0,8
+155,15,2,Our model would then be useful to enforce proper precautionary measures immediately,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,15,0,1,2
+156,15,2,the simple model of contagion by a single stable virus does not hold,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,15,3,1,7
+157,15,2,SIR model cannot represent the unfolding of the SARS epidemic,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,15,3,0,7
+158,15,2,data may be inaccurate to account for the reality of the epidemic,"['Inner Mongolia', 'Hong Kong', 'Beijing']","['March 17, 2003', 'May 10, 2003']",,15,3,2,7
+159,15,7,"Paris VI University, Dr. W.K","['Inner Mongolia', 'Hong Kong', 'Beijing', 'Paris']","['March 17, 2003', 'May 10, 2003']",,15,9,0,2
+160,2,2,r is the infection rate,"['China', 'Hong Kong', 'Beijing', 'Shanghai']","['March 17, 2003', 'May 10, 2003']","Hong Kong and other cities, so others are Beijing, Shanghai and since China was also part of this context.",2,6,0,4
+161,1,1,dI = 0,[''],[''],,2,9,0,2
+162,1,1,t p p = - ( ) ( ) - ( ) ( ) ( ) dt dE 2 rS t I t bE t = ( ) ( ) - ( ) ( ) dt dI bbE t aI t 3 = ( ) - ( ) ( ) dt dR aI t 4 =,[''],[''],,6,14,0,8
+163,6,2,r and rP are related to the infection rate of disease A and B,['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8
+164,6,2,r and rP are related to the infection rate of disease A and B,['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8
+165,2,1,"a, aP and b are the removal rate of individuals in class I, IP and E",[''],[''],No location/temporal context,6,14,5,8
+166,6,2,"a, aP and b are the removal rate of individuals in class I, IP and E",['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8
+167,6,2,"a, aP and b are the removal rate of individuals in class I, IP and E",['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8
+168,6,2,N is the total population,['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,2,8
+169,6,2,"random contact by an infective with a susceptible, who can then transmit infection, is S",['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,3,8
+170,6,2,r and rP are related to the infection rate of disease A and B,['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8
+171,6,2,rP are related to the infection rate of disease A and B,['Hong Kong'],"['17 March, 2003', '10 May, 2003']",,6,14,5,8

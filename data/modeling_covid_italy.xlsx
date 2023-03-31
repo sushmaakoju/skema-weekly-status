@@ -1,0 +1,303 @@
+,page_num,para_num,event,locationContext,temporalContext,explanation,pg_num,blk_id,sentence_id,doc_sentence_count
+0,1,3,commonly used model is the SIR,['N/A'],['N/A'],Because they are extending SIR model just towards Covid cases in Italy and not China. China is mentioned in intro paragraph to just suggest begining of SAR CoV-2 in China as a Lead/Opening Paragraph.,1,4,20,34
+1,1,3,epidemic in Italy that extends swabs as of 5 April 2020,[''],[''],mixed up lines between the two columns. wrong continuination of paragraph line. epidemic in Italy that extends SIR is in left column of the page and nasal swabs as of 5 April 2020 is in right column paragraph so both of the lines are two different lines,1,4,31,34
+2,1,1,"21 February 2020 in Lodi province, several suspect cases (initially discrete-time SIR model including dead individuals21, Casella develepidemiologically linked) began",[''],[''],"mixed up lines between the two columns. individuals21, Casella develepidemiologically linked) began",1,4,27,34
+3,1,1,new model that predicts the course of the epiwas extended to the entire area of Lombardy,[''],[''],mixed up lines between the two columns..,1,4,5,34
+4,1,1,"One commonly used model is the SIR after a novel strain of  coronavirus, SARS-CoV-2, was identified",[''],[''],mixed up lines between the two columns.,1,4,20,34
+5,1,1,More complex models can accurately portray the dynamic spread of  specific epidemics,[''],[''],mixed up lines between the two columns.,1,4,21,34
+6,1,1,Predictive mathematical models for epidemics15-18 are fundamental,['N/A'],['N/A'],"The numbers are superscript. But the location and temporal context remain generic, since this is just an opening (Lede) sentence to first introduce SIR, then navigate towards  extended models from other researchers.",1,5,10,18
+7,1,1,More complex models can accurately portray the dynamic spread of  specific epidemics,['N/A'],['N/A'],This is just another introductory opening sentence which is generic.,1,5,12,18
+8,1,1,One commonly used model is the SIR model19 for human-to-human transmission,['N/A'],['N/A'],,1,5,11,18
+9,1,1,"Stochastic transmission models have also been considered24,25",['N/A'],['N/A'],should this really be N/A? no direct location/time information associated. It has to be by inference.,1,5,15,18
+10,2,1,"different severity of illness (SOI),","['Italy', 'Lodi Province', 'Lombardy']","['20 February 2020 (day 1) to 5 April 2020 (day 46)', '26 February 2020', '9 March 2020']",,2,4,0,13
+11,2,3,R0 = 1.66,['Italy'],['on day 4'],R0 on Day 4,2,4,6,13
+12,2,3,R0 = 1.80,['Italy'],['at day 12'],R0 on day 12,2,4,11,13
+13,2,3,R0 = 2.38,['Italy'],['on day 1'],R0 on Day 1,2,4,4,13
+14,2,3,basic reproduction number was R0,['Italy'],['day 1'],,2,4,4,13
+15,2,3,R0 = 2.38,['Italy'],['day 1'],,2,4,4,13
+16,2,3,moderate infection) and potentially lifeing the most recent lockdown progressively enforced since 9 March 2020,[''],[''],mixed up lines between the two columns.,2,4,0,13
+17,2,3,possible longer-term scenarios illustrating the effects of  different The total population is partitioned into eight stages of  discountermeasures,[''],[''],mixed up lines between the two columns.,2,4,2,13
+18,2,3,"R0 = 2.38, which resulted in a H",[''],[''],mixed up lines between the two columns.,2,4,4,13
+19,2,3,R0 = 2.38,['Italy'],['day 1'],,2,6,3,7
+20,2,3,basic reproduction number was R0,['Italy'],['day 1'],,2,6,3,7
+21,2,3,R0 = 2.38,['Italy'],['day 1'],,2,6,3,7
+22,2,3,R0 = 1.66,['Italy'],['day 4'],,2,6,4,7
+23,2,3,R0 = 1.80,['Italy'],['day 4'],,2,6,5,7
+24,2,3,"progressive restrictions, including the most recent lockdown progressively enforced since 9 March 2020, have affected the spread of  the epidemic",['Italy'],"['9 March 2020', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",,2,6,0,7
+25,2,3,"R0 = 2.38, which resulted in a substantial outbreak",['Italy'],"['day 1', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",,2,6,3,7
+26,3,1,R0 = 0.85,['Italy'],['after day 38'],R0 = 0.85 after day 38.,3,6,5,19
+27,3,1,"infected Figure 3c,d",[''],[''],mixed up lines between the two columns.,3,6,10,19
+28,3,1,"Figure 4a,b",['Italy'],"['9 March 2020', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",wrong event.,3,6,13,19
+29,3,1,R0 = 1.60,"['Italy', 'north to the south of Italy']","['day 22', '20 February 2020 (day 1) to 5 April 2020 (day 46)', '22 March 2020']",,3,6,2,19
+30,3,1,R0 = 0.99,['Italy'],"['after day 28', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",R0 after day 28,3,6,3,19
+31,3,5,"Figure 4c,d",['Italy'],"['9 March 2020', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",wrong event.,3,6,16,19
+32,3,2,9.8% and the perceived CFR is 13%,['Italy'],"['9 March 2020', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",,3,6,16,19
+33,3,1,9.8% and the perceived CFR is 13,['Italy'],['20 February 2020 (day 1) to 5 April 2020 (day 46)'],,3,6,16,19
+34,3,1,9.8% and the perceived CFR is 13%,['Italy'],"['9 March 2020', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",,3,6,16,19
+35,3,1,individuals are partitioned into the different subpopulations,['Italy'],"['46', '20 February 2020 (day 1) to 5 April 2020 (day 46)']",,3,6,10,19
+36,3,4,"3a,b shows,",['Italy'],['20 February 2020 (day 1) to 5 April 2020 (day 46)'],wrong event.,3,8,4,9
+37,3,4,"Figure 3c,d",['Italy'],['20 February 2020 (day 1) to 5 April 2020 (day 46)'],wrong event.,3,8,5,9
+38,3,5,"Figure 4a,b",['Italy'],['20 February 2020 (day 1) to 5 April 2020 (day 46)'],wrong event.,3,8,7,9
+39,3,5,"Figure 4c,d",['Italy'],['20 February 2020 (day 1) to 5 April 2020 (day 46)'],wrong event.,3,8,8,9
+40,4,4,Healthcare workers are more the actual CFR,[''],[''],mixed up lines between the two columns.,4,6,7,28
+41,4,3,"standard molecular methods to detect the presence of SARS-CoV-2 in respiand nature, predicting for each the timing and magnitude of the ratory samples are based on non-specific real-time polymerase epidemic peak",[''],[''],mixed up lines between the two columns.,4,6,14,28
+42,4,6,partial implementation of  lockdown measures results in a delay in the peak of infected individuals and patients admitted to the ICU,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,4,6,26,28
+43,1,1,"presence of  widespread testing and  contact tracing, which would strongly contribute to a rapid resolution of the epidemic",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,4,6,4,28
+44,1,1,Health are available28,[''],[''],mixed up lines between the two columns.,5,8,11,26
+45,5,1,countries that are still in the early 2,"['Italy', 'China']",['20 February 2020 (day 1) through 5 April 2020 (day 46)'],Actually this is conclusion for future studies since the authors suggest here that it is helpful for future studenss in countries that are still in early stages of pandemic.,5,8,12,26
+46,5,3,http://www.salute.gov.it/ nario will evolve to account for these ongoing innovations34-37,[''],[''],mixed up lines between the two columns.,5,8,25,26
+47,5,3,"Situation Report 76 ios, unaffected by the extent of social restriction and testing",[''],[''],mixed up lines between the two columns.,5,8,18,26
+48,5,3,"initial condition s(0), i(0)",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,7,16,1,2
+49,7,14,"i(0), D(0), a(0), R(0), T(0), H(0), E(0) summing to 1,",['Italy'],['N/A'],,7,16,1,2
+50,7,14,"initial condition s(0), i(0)",['Italy'],['N/A'],,7,16,1,2
+51,9,7,"P(t), which are defined as the squares of the errors",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],Because our model allows us...which is SIDHARTHE,8,9,10,13
+52,9,1,"CFR, on apriori epidemiological and clinical information about the relative parameter",[''],[''],mixed up lines between the two columns.,8,9,9,13
+53,9,3,Relying An important indicator of the dynamics of an epidemiologic model is the CFR,[''],[''],mixed up lines between the two columns.,8,9,9,13
+54,9,3,"CFR, on apriori epidemiological and clinical information about the relative parameter",[''],[''],mixed up lines between the two columns.,8,9,9,13
+55,9,3,coefficients of matrix F are going the sum of the squares of the errors,[''],[''],mixed up lines between the two columns.,8,9,4,13
+56,9,9,delta = 0.005,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",Delta on Day 22 during 46-day duration.,9,12,24,87
+57,9,9,nu = 0.015,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",Day 22,9,12,24,87
+58,9,9,zeta =,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+59,9,9,gamma = 0.200,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",Day 22,9,12,24,87
+60,9,9,gamma =,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+61,9,9,gamma = 0.200,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+62,9,9,eta = 0.034,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+63,9,9,beta =,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+64,9,9,lambda = 0.08,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+65,9,9,sigma = 0.017,['Italy'],"['day 1', 'after day 22']",,9,12,24,87
+66,9,9,mu = 0.008,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+67,9,9,yields alpha = 0.360,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,24,87
+68,9,9,R0 = 1.60,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,25,87
+69,9,9,beta =,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,52,87
+70,9,7,alpha = 0.422,['Italy'],"['after day 4', '20 February 2020 (day 1) through 5 April 2020 (day 46)', '24 February 2020']",,9,12,52,87
+71,10,4,final number of infected and alpha =,[''],[''],mixed up lines between the two columns.,9,12,52,87
+72,10,4,alpha = 0.422,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']","after day 22, if no measures were taken",9,12,52,87
+73,10,4,hence R0 = 1.66,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']","after day 22, if no measures were taken",9,12,52,87
+74,10,4,delta = 0.0057,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']","after day 22, if no measures were taken",9,12,52,87
+75,10,4,gamma = 0.285,['Italy'],"['after day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']","after day 22, if no measures were taken",9,12,52,87
+76,10,4,R0 = 2.38,['Italy'],"['day 1', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,20,87
+77,10,4,resulting basic reproduction number is R0,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,20,87
+78,10,5,R0 = 2.38,['Italy'],"['day 1', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,20,87
+79,10,5,alpha = 0.285,['Italy'],"['day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,60,87
+80,10,5,gamma = 0.171,['Italy'],"['day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,60,87
+81,10,5,hence R0 = 1.13,['Italy'],"['day 22', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,60,87
+82,9,9,R0 = 0.85,['Italy'],"['after day 38', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,28,87
+83,10,5,alpha = 0.200,['Italy'],['300-day horizon'],,9,12,70,87
+84,10,5,gamma = 0.086,['Italy'],"['300-day horizon', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",Extended data suggests future prediction had stronger social distancing was in place,9,12,70,87
+85,10,5,hence R0 = 0.787,['Italy'],"['300-day horizon', '20 February 2020 (day 1) through 5 April 2020 (day 46)']",,9,12,70,87
+86,10,5,many infected subjects are not than 1,[''],[''],mixed up lines between the two columns.,9,12,70,87
+87,10,6,beta =,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,21,87
+88,10,4,gamma = 0.285,['Italy'],['after day 22'],,9,12,21,87
+89,10,4,R0 = 1.66,['Italy'],['after day 22'],,9,12,21,87
+90,10,4,delta = 0.0057,['Italy'],['after day 22'],,9,12,21,87
+91,10,4,alpha = 0.422,['Italy'],['after day 22'],,9,12,21,87
+92,10,6,gamma = 0.057,['Italy'],['N/A'],,9,12,77,87
+93,10,6,"current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0 = 0.0329,",[''],[''],mixed up lines between the two columns.,9,12,77,87
+94,10,6,alpha =,['Italy'],['N/A'],,9,12,77,87
+95,10,6,"are heavily subject countermeasures, alpha",[''],[''],mixed up lines between the two columns.,9,12,77,87
+96,10,6,"current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0 = 0.0329,",[''],[''],mixed up lines between the two columns.,9,12,77,87
+97,10,6,"are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",[''],[''],mixed up lines between the two columns.,9,12,77,87
+98,10,6,"current statistics, which are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",[''],[''],mixed up lines between the two columns.,9,12,77,87
+99,10,6,"are heavily subject countermeasures, alpha = gamma = 0.057, hence R0",[''],[''],mixed up lines between the two columns.,9,12,77,87
+100,10,6,hence R0 = 0.0329,['Italy'],['300-day horizon'],,9,12,77,87
+101,10,2,Alpha = 0.105,['Italy'],['after day 50'],,9,12,41,87
+102,10,2,hence R0 = 0.50,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,41,87
+103,9,11,T(t) is the number of life-threatened patients,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,32,87
+104,9,11,"example, T(t) is",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,32,87
+105,9,11,T(t) is the number of life-threatened patients,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,32,87
+106,9,11,(hence epsilon is not set exactly to zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,22,87
+107,9,7,epsilon = 0.143,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,22,87
+108,10,2,alpha = 0.420,['Italy'],['after day 50'],,9,12,44,87
+109,10,2,epsilon = 0.600,['Italy'],"['after day 50', 'after day 22']",,9,12,44,87
+110,10,2,R0 = 0.77,['Italy'],"['after day 50', 'after day 22']",,9,12,44,87
+111,9,11,xi = 0.020,['Italy'],['after day 38'],Probably mistake - there is no xi,9,12,27,87
+112,9,10,sigma = 0.010,['Italy'],['after day 38'],,9,12,27,87
+113,9,9,eta = 0.025,['Italy'],['after day 50'],,9,12,27,87
+114,9,9,yields epsilon = 0.200,['Italy'],"['after day 38,']",,9,12,27,87
+115,9,9,kappa =,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,27,87
+116,10,3,actual CFR is ~7.2,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,49,87
+117,10,3,actual CFR is ~7.2%,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,49,87
+118,10,3,actual CFR is ~7.2,['Italy'],['in all cases'],,9,12,49,87
+119,10,3,perceived CFR is ~9.0,['Italy'],['in all cases'],,9,12,49,87
+120,10,3,perceived CFR is ~9.0%,['Italy'],['in all cases'],,9,12,49,87
+121,10,3,perceived CFR is ~9.0,['Italy'],['in all cases'],,9,12,49,87
+122,10,1,"1d, model",[''],[''],mixed up lines between the two columns.,9,12,66,87
+123,9,6,S = 1,['Italy'],['day 1'],,9,12,18,87
+124,9,6,D = 20/60,['Italy'],['day 1'],"error in the event - D=20/60e6 but D = 20/60, probably COSMOS bug too.",9,12,18,87
+125,9,6,i = 200/60,['Italy'],['day 1'],,9,12,18,87
+126,19,6,R = 2/60,['Italy'],['day 1'],,9,12,18,87
+127,9,6,E = 0,['Italy'],['day 1'],,9,12,18,87
+128,9,6,a = 1/60,['Italy'],['day 1'],"error in the event - a=1/60e6 but a = 1/60, probably COSMOS bug too.",9,12,18,87
+129,9,6,a = 1/60E6,['Italy'],['day 1'],,9,12,18,87
+130,9,6,a = 1/60,['Italy'],['day 1'],"error in the event - a=1/60e6 but a = 1/60, probably COSMOS bug too.",9,12,18,87
+131,9,6,H = 0,['Italy'],['day 1'],,9,12,18,87
+132,9,6,T = 0,['Italy'],['day 1'],,9,12,18,87
+133,10,2,R0 = 0.59,['Italy'],['day 1'],,9,12,43,87
+134,10,2,epsilon = 0.400,['Italy'],['after day 50'],,9,12,43,87
+135,10,2,Alpha = 0.252,['Italy'],['after day 50'],,9,12,40,87
+136,10,2,hence R0 = 0.98,['Italy'],['after day 50'],,9,12,40,87
+137,9,10,gamma = 0.110,['Italy'],['after day 28'],,9,12,26,87
+138,9,10,alpha = 0.210,['Italy'],['after day 28'],,9,12,26,87
+139,9,10,hence R0 = 0.99,['Italy'],['after day 28'],,9,12,26,87
+140,9,71,R0 = 1.80,['Italy'],['after day 12'],,9,12,23,87
+141,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda",['Italy'],['at day 1'],,9,12,19,87
+142,9,7,lambda =,['Italy'],['at day 1'],,9,12,19,87
+143,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda",['Italy'],['at day 1'],,9,12,19,87
+144,9,7,sigma = 0.017,['Italy'],['at day 1'],,9,12,19,87
+145,9,8,gamma = 0.456,['Italy'],['at day 1'],,9,12,19,87
+146,9,8,"alpha = 0.570, beta = delta = 0.011, gamma",['Italy'],['at day 1'],,9,12,19,87
+147,9,8,gamma =,['Italy'],['at day 1'],,9,12,19,87
+148,9,7,gamma = 0.456,['Italy'],['at day 1'],,9,12,19,87
+149,9,7,tau = 0.01,['Italy'],['at day 1'],,9,12,19,87
+150,9,8,tau =,['Italy'],['at day 1'],,9,12,19,87
+151,9,5,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau",['Italy'],['day 1'],,9,12,19,87
+152,9,5,tau = 0.01,['Italy'],['after day 38'],,9,12,19,87
+153,9,6,rho = 0.034,['Italy'],['at day 1'],,9,12,19,87
+154,9,6,eta = 0.125,['Italy'],['at day 1'],,9,12,19,87
+155,9,7,alpha = 0.570,['Italy'],['at day 1'],,9,12,19,87
+156,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01, lambda =",['Italy'],['at day 1'],,9,12,19,87
+157,9,7,"alpha = 0.570, beta =",['Italy'],['at day 1'],,9,12,19,87
+158,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta =",['Italy'],['at day 1'],,9,12,19,87
+159,9,7,alpha =,['Italy'],['at day 1'],,9,12,19,87
+160,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau =",['Italy'],['at day 1'],,9,12,19,87
+161,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta =",['Italy'],['at day 1'],,9,12,19,87
+162,9,7,"alpha = 0.570, beta = delta = 0.011, gamma =",['Italy'],['at day 1'],,9,12,19,87
+163,9,7,alpha = 0.570,['Italy'],['at day 1'],,9,12,19,87
+164,9,7,epsilon = 0.171,['Italy'],['at day 1'],,9,12,19,87
+165,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon",['Italy'],['at day 1'],,9,12,19,87
+166,9,7,epsilon = 0.171,['Italy'],['at day 1'],,9,12,19,87
+167,9,7,mu = 0.017,['Italy'],['at day 1'],,9,12,19,87
+168,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu",['Italy'],['at day 1'],,9,12,19,87
+169,9,7,mu = 0.017,['Italy'],['at day 1'],,9,12,19,87
+170,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta",['Italy'],['at day 1'],,9,12,19,87
+171,9,7,zeta =,['Italy'],['at day 1'],,9,12,19,87
+172,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta",['Italy'],['at day 1'],,9,12,19,87
+173,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01,",['Italy'],['at day 1'],,9,12,19,87
+174,9,7,beta =,['Italy'],['at day 1'],,9,12,19,87
+175,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu = 0.027, tau = 0.01,",['Italy'],['at day 1'],,9,12,19,87
+176,9,5,nu = 0.027,['Italy'],['at day 1'],,9,12,19,87
+177,9,5,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta = 0.371, zeta = eta = 0.125, mu = 0.017, nu",['Italy'],['at day 1'],,9,12,19,87
+178,9,5,nu = 0.027,['Italy'],['at day 1'],,9,12,19,87
+179,9,7,delta = 0.011,['Italy'],['at day 1'],,9,12,19,87
+180,9,7,theta = 0.371,['Italy'],['at day 1'],,9,12,19,87
+181,9,7,theta =,['Italy'],['at day 1'],,9,12,19,87
+182,9,7,"alpha = 0.570, beta = delta = 0.011, gamma = 0.456, epsilon = 0.171, theta",['Italy'],['at day 1'],,9,12,19,87
+183,9,7,theta = 0.371,['Italy'],['at day 1'],,9,12,19,87
+184,9,3,it can also be explained by the Italian criteria,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,7,87
+185,10,12,epidemic phenomenon based on current statistics,['N/A'],['N/A'],,9,12,77,87
+186,10,6,evolution of the situation that leads to a peak in the number of concurrently infected individuals around day 25,['Italy'],"['300-day horizon', 'around day 25']",,9,12,79,87
+187,9,5,R = 2/60E6,['Italy'],['at day 1'],,9,12,18,87
+188,1,1,sigma = 0.010 and zeta,['Italy'],['after day 38'],,9,12,27,87
+189,9,3,model is weakly sensitive to the initial conditions,"['Italian population', 'Italian society', 'Italy']",['20 February 2020(day 1) through 5 April 2020 (day 46)'],,9,12,12,87
+190,10,8,"disease or stricter social-distancing measures), which typically results in a change Eventually, 0.086% of the population have contracted the virus",['Italy'],[''],mixed up lines between the two columns.,9,12,80,87
+191,10,5,"fraction of patients in need of intensive care, as shown in Extended Data Fig. 1h, conditions, but they are sensitive to the parameter values",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,82,87
+192,10,9,they are sensitive to the parameter values,['Italy'],"['after day 22', 'over a 300-day horizon', 'over a 500-day horizon']",,9,12,82,87
+193,9,5,parameters that locally minimize the sum of the squares of the errors,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,13,87
+194,9,7,D = 20/60E6,['Italy'],['at day 1'],,9,12,18,87
+195,9,6,initial data are affected by statistical distortion,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,9,87
+196,9,1,quantity that can be computed based on our model,[''],[''],"bug, missing some values between quantity and that can be",9,12,4,87
+197,10,5,evolution that leads to a peak,['Italy'],['over a 500-day horizon'],,9,12,63,87
+198,10,4,number of life-threatening evolution that leads to 73% of the population having contracted,[''],[''],mixed up lines between the two columns.,9,12,52,87
+199,9,4,"Italian criteria for (provisional) statistics, which lead to overestimation",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,7,87
+200,10,5,"fraction of patients in need of intensive care, as shown in Extended Data Fig. 1h, conditions, but they are sensitive to the parameter values",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,12,82,87
+201,9,6,rho = 0.034 and kappa,['Italy'],['at day 1'],,9,12,19,87
+202,1,1,lack of proper situation that leads to a peak,[''],[''],mixed up lines between the two columns.,9,12,72,87
+203,10,10,"other transmission parameters, beta, gamma",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,2,6,18
+204,10,10,"other transmission parameters, beta, gamma and delta",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,2,6,18
+205,10,10,"other transmission parameters, beta",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,2,6,18
+206,10,10,model is particularly sensitive to variations,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,2,4,18
+207,10,9,parameters that can be influenced by policymakers,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,2,1,18
+208,10,15,"more extensive screening for the disease or stricter social-distancing measures), which typically results in a change",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,4,9,18
+209,10,14,possible underestimation or overestimation of the epidemic phenomenon based on current statistics,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,4,8,18
+210,9,4,model predictions in the long run are not very sensitive to the initial conditions,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,10,4,10,18
+211,1,1,they are sensitive to the parameter values,[''],[''],mixed up lines between the two columns.,10,4,10,18
+212,1,1,"Pavia, Italy",[''],[''],bug - this is from foot notes.,1,6,2,7
+213,1,1,"Fondazione Irccs Policlinico San Matteo, Pavia",[''],[''],bug - this is from foot notes.,1,6,2,7
+214,1,1,"Pavia, Italy",[''],[''],bug - this is from foot notes.,1,6,2,7
+215,1,1,"c,d, The long-term predicted evolution over a 350-day horizon",[''],[''],mixed up lines between the two columns.,3,5,3,7
+216,1,1,",b, The short-term epidemic evolution obtained by reproducing the data trend with the model",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],from figure caption i.e. description,3,5,2,7
+217,3,2,",c, The difference between the actual evolution of the epidemic (solid lines",['Italy'],['over a 350-day horizon'],,3,5,4,7
+218,3,1,model based on the available data about the COVID-19 outbreak,['Italy'],['over a 350-day horizon'],,3,5,1,7
+219,1,1,",c, The difference between the actual (real cases",['Italy'],['over a 350-day horizon'],,4,5,2,5
+220,8,2,I + D + A + R + T are zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+221,8,2,I + D + A + R + T are zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+222,8,2,I + D + A + R + T are zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+223,8,2,D + A + R + T are zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+224,8,2,A + R + T are zero,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+225,8,2,infected individuals I + D + A + R + T are zero are the remaining variables S,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,5,9
+226,8,1,All the possible Equilibria are given by  s,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,2,9
+227,8,2,"I, D, A, R and T (the infected individuals), which are non-zero only during the transient",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+228,8,2,"T (the infected individuals), which are non-zero only during the transient",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+229,8,2,"R and T (the infected individuals), which are non-zero only during the transient",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+230,8,2,"D, A, R and T (the infected individuals), which are non-zero only during the transient",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+231,8,2,"A, R and T (the infected individuals), which are non-zero only during the transient",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+232,8,2,partition it into three subsystems,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,1,3,9
+233,8,2,"r1 = epsilon + zeta + lambda, r2 = eta + rho, r3 = theta + mu + kappa, r4 = nu + xi and r5 = sigma + tau",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,6,0,2
+234,8,2,r4 = nu + xi and r5 = sigma + tau,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,6,0,2
+235,8,4,r5 = sigma + tau,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,6,0,2
+236,8,5,transfer function from u to yS in the system (9)-(13) is G(s),['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,0,32
+237,8,6,S represents the fraction of population,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,20,32
+238,8,6,S represents the fraction of population,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,20,32
+239,8,6,R0 = G(0) is the Hinfinity norm of the transfer function G(s,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,4,32
+240,8,6,Hinfinity norm of G(s) is equal to the static gain G(0),['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,1,32
+241,8,6,action u td Th (1/4) S td ThyS td Th (1/4) S td Th alphaI th betaD th gammaA th deltaD d Th has a destabilizing effect on the IDART subsystem,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,12,22,32
+242,8,4,"r1 = epsilon + zeta + lambda, r2 = eta + rho, r3 = theta + mu + kappa, r4 = nu + xi and r5 = sigma + tau",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,13,0,2
+243,8,6,r4 = nu + xi and r5 = sigma + tau,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,13,0,2
+244,8,6,r5 = sigma + tau,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,8,13,0,2
+245,8,6,T(0) = 0,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,4,1,2
+246,8,5,> 0 R1 i,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,4,1,2
+247,8,1,D(0) = A(0),['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,4,1,2
+248,9,8,formulas for H and E can be obtained by pre-multiplying the expression of above by fT and dT,['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,9,4,0,2
+249,1,1,"Zuccaro, L. Pagnucco, B. Mariani, S. Ludovisi, R. Lissandrin, A. Parisi, P. Sacchi, S.F.A",[''],[''],bug - this is from references.,11,8,2,16
+250,10,1,actual Case Fatality Rate is around 7.2%,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+251,10,1,actual Case Fatality Rate is around 7.2,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+252,10,1,actual Case Fatality Rate is around 7.2%,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+253,10,2,perceived CFR is around 9.0%,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+254,10,1,perceived CFR is around 9.0,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+255,10,1,perceived CFR is around 9.0%,['Italy'],"['after day 22', 'in all cases']",,13,1,2,5
+256,13,1,"panels (b), (d), (f",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+257,13,1,"Panels (a), (c",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+258,13,1,"panels (b), (d), (f),",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+259,13,1,"panels (b), (d",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+260,13,1,"panels (b), (d), (f), (h",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+261,13,1,"Panels (a), (c), (e),",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+262,13,1,"Panels (a), (c), (e), (g",[''],[''],bug - this is from caption suggesting figures as panels.,13,1,3,5
+263,13,1,"chi=0, chi=0.1, chi=0",['Italy'],['after day 50'],,15,1,2,5
+264,15,1,chi represents the rate at which immunity is lost,['Italy'],['after day 50'],,15,1,1,5
+265,18,1,"transmission coefficient alpha, whose nominal value is alpha=0",['Italy'],['after day 50'],,18,1,1,5
+266,18,1,"transmission coefficient alpha, whose nominal value is alpha=0.21",['Italy'],['after day 50'],,18,1,1,5
+267,18,1,model is extremely sensitive to variations,['Italy'],['after day 50'],,18,1,4,5
+268,18,1,"transmission coefficient beta, whose nominal value is beta=0",['Italy'],['after day 50'],,20,1,1,5
+269,1,1,"transmission coefficient beta, whose nominal value is beta=0.0050",['Italy'],['after day 50'],,20,1,1,5
+270,18,1,Increasing beta increases,['Italy'],['after day 50'],,20,1,4,5
+271,18,1,"transmission coefficient gamma, whose nominal value is gamma=0",['Italy'],['after day 50'],,22,1,1,5
+272,22,1,"transmission coefficient gamma, whose nominal value is gamma=0.11",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,22,1,1,5
+273,22,1,Increasing gamma increases,['Italy'],['after day 50'],,22,1,4,5
+274,24,1,"transmission coefficient delta, whose nominal value is delta=0",['Italy'],['after day 50'],,24,1,1,5
+275,24,1,"transmission coefficient delta, whose nominal value is delta=0.0050",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,24,1,1,5
+276,24,1,Increasing delta increases,['Italy'],['after day 50'],,24,1,4,5
+277,26,1,"testing coefficient theta, whose nominal value is theta=0.3705",['Italy'],['after day 50'],,28,1,1,5
+278,26,1,theta decreases all the curves,['Italy'],['after day 50'],,28,1,4,5
+279,30,1,"life-threatening symptoms, whose nominal values are mu=0",['Italy'],['after day 50'],,30,1,1,7
+280,30,1,"relevant symptoms, whose nominal values are zeta=",['Italy'],['after day 50'],,30,1,1,7
+281,30,1,"tau, whose nominal value is",['Italy'],['after day 50'],,30,1,1,7
+282,30,1,"tau, whose nominal value is",['Italy'],['after day 50'],,30,1,1,7
+283,30,1,tau = 0.0100,['Italy'],['after day 50'],,30,1,1,7
+284,30,1,tau =,['Italy'],['after day 50'],,30,1,1,7
+285,30,1,tau = 0.0100,['Italy'],['after day 50'],,30,1,1,7
+286,30,1,sigma = 0.0100,['Italy'],['after day 50'],,30,1,1,7
+287,30,1,sigma =,['Italy'],['after day 50'],,30,1,1,7
+288,30,1,sigma = 0.0100,['Italy'],['after day 50'],,30,1,1,7
+289,30,1,"life-threatening symptoms, whose nominal values are mu=0.0080",['Italy'],['after day 50'],,30,1,1,7
+290,30,1,xi = 0.0200,['Italy'],['after day 50'],,30,1,1,7
+291,30,1,kappa =,['Italy'],['after day 50'],,30,1,1,7
+292,30,1,"healing coefficient lambda, whose nominal value is lambda=0.0800",['Italy'],['after day 50'],,30,1,1,7
+293,30,1,"healing coefficient lambda, whose nominal value is lambda=0",['Italy'],['after day 50'],,30,1,1,7
+294,30,1,"kappa, xi and sigma, whose nominal values",['Italy'],['after day 50'],,30,1,1,7
+295,30,1,nu = 0.0150,['Italy'],['after day 50'],,30,1,1,7
+296,10,1,"Increasing zeta and eta decreases the final number of infected and recovered, but also increases",['Italy'],['after day 50'],,30,1,3,7
+297,30,1,"number of symptomatic and life-threatening infections initially increases, to decrease",['Italy'],['after day 50'],,30,1,3,7
+298,30,1,"number of life-threatening infections initially increases, to decrease",['Italy'],['after day 50'],,30,1,4,7
+299,30,1,"Increasing mu and nu decreases the final number of infected and recovered, but also increases",['Italy'],['20 February 2020 (day 1) through 5 April 2020 (day 46)'],,30,1,4,7
+300,30,1,"nominal value of all the considered parameters is multiplied by 0.5, 0.8, 1, 1.2, 2, and the corresponding evolution of the model variables",['Italy'],['after day 50'],,30,1,2,7
+301,30,1,"lambda, as well as the other healing parameters, decreases all the curves, apart from the curve of recovered patients",['Italy'],['after day 50'],,30,1,5,7
