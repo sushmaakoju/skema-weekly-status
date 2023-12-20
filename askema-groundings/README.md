@@ -1,5 +1,8 @@
 # askema groundings
 
+### <a href="https://github.com/advisories/GHSA-v68g-wm8c-6x7j/dependabot?query=user:sushmaakoju">Github Denpendabot Advisory</a>:
+a href="https://vuldb.com/?id.248381">Vulnerability in huggingface transformers up to 4.35 </a>. Upgrade to greater than 4.35 version in requirements. Current stable version of Huggingface Transformers is: <a href="https://huggingface.co/docs/transformers/main/en/index"> V4.36.1</a>. 
+
 ## Dataset 
 Dataset was generated using <a href="https://github.com/sushmaakoju/skema-weekly-status/blob/main/askema-groundings/dataset_generation_askema_groundings_annotations.ipynb">dataset_generation_askema_groundings_annotations</a>
 
